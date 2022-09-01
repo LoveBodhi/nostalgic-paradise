@@ -1,2 +1,2 @@
-# nostalgic-paradise
-TheXTech 组件《复古乐园》 | TheXTech Asset "Nostalgic Paradise"
+只供娱乐（即合理使用）。
+Just for fun (Use them fairly).
