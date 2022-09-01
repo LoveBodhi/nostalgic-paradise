@@ -35,6 +35,7 @@ Asset Changes:
 - Added Pipe Maze Background.
 - Added Inside Pyramid Background.
 - Updated Billy Gun.
+- Updated Blockland Background.
 - Changed Waterfall 1 BGO's colour.
 - Changed Night Tiles to Swamp.
 - Changed Talk Graphic.
