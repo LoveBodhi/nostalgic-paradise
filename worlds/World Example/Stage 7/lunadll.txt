@@ -1,0 +1,27 @@
+#0
+Timer,0,1000,1,0,30060,0
+#1
+ShowText,0,319,82,3,0,Stage 7-1
+#2
+ShowText,0,319,82,3,0,Stage 7-2
+#3
+ShowText,0,319,82,3,0,Stage 7-3
+LayerYSpeed,3,0,0,0,0,0
+LayerYSpeed,4,0,0,0,0,0
+BlockTrigger,0,245,1,1001,0,0
+BlockTrigger,0,259,1,1002,0,0
+#4
+ShowText,0,319,82,3,0,Stage 7-4
+#5
+ShowText,0,319,82,3,0,Stage 7-4
+#6
+ShowText,0,319,82,3,0,Stage 7-S
+#1000
+Kill,0,0,0,0,1,0
+#1001
+AccelerateLayerY,3,4,0,0,64,0.06
+AccelerateLayerY,4,-4,0,0,64,-0.06
+#1002
+AccelerateLayerY,3,-4,0,0,64,-0.06
+AccelerateLayerY,4,4,0,0,64,0.06
+#END

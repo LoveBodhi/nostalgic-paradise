@@ -1,0 +1,19 @@
+#0
+Timer,0,1000,1,0,48060,0
+#1
+ShowText,0,310,82,3,0,Stage 10-1
+#2
+ShowText,0,310,82,3,0,Stage 10-2
+#3
+ShowText,0,310,82,3,0,Stage 10-3
+#4
+ShowText,0,310,82,3,0,Stage 10-4
+#5
+ShowText,0,310,82,3,0,Stage 10-4
+#6
+ShowText,0,310,82,3,0,Stage 10-S
+#7
+ShowText,0,310,82,3,0,Stage 10-4
+#1000
+Kill,0,0,0,0,1,0
+#END

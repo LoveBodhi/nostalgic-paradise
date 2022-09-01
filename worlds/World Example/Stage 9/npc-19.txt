@@ -1,0 +1,16 @@
+gfxwidth=28
+gfxheight=32
+width=28
+height=32
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+grabtop=0
+noblockcollision=1
+nofireball=1
+frames=2
+framespeed=4
+framestyle=0
+gridalign=0
+speed=0
