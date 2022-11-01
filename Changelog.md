@@ -1,3 +1,13 @@
+# Version 0.21 (WIP)
+
+Asset Changes:
+
+- Added and changed some musics.
+- Added Alternate Graphics.
+- Updated Mountain Background.
+- Tweaked some sizables.
+- Tweaked colours of various BGO's and Blocks.
+
 # Version 0.2 - Mushroom Prototype (2022-09-13)
 
 Asset Changes:
