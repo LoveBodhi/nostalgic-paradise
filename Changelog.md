@@ -5,6 +5,10 @@ Asset Changes:
 - Added and changed some musics.
 - Added Alternate Graphics.
 - Updated Mountain Background.
+- Updated Red Coin.
+- Changed Waterfall (Original by Gatete, Recolour by Yingchun Soul).
+- Fixed Big Boo's Frame.
+- Tweaked Hills.
 - Tweaked some sizables.
 - Tweaked colours of various BGO's and Blocks.
 
