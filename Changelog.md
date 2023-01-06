@@ -4,9 +4,12 @@ Asset Changes:
 
 - Added and changed some musics.
 - Added Alternate Graphics.
+- New font system.
+- New World Map Background.
 - Updated Mountain Background.
 - Updated Red Coin.
 - Changed Waterfall (Original by Gatete, Recolour by Yingchun Soul).
+- Changed Mushroom Block (Made by Murphmario).
 - Fixed Big Boo's Frame.
 - Tweaked Hills.
 - Tweaked some sizables.
