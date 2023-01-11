@@ -4,7 +4,7 @@ Asset Changes:
 
 - Added and changed some musics.
 - Added Alternate Graphics.
-- New font system.
+- New font system, which supports UTF-8 characters.
 - New World Map Background.
 - Updated Mountain Background.
 - Updated Red Coin.
