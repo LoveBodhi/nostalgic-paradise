@@ -3,17 +3,24 @@
 Asset Changes:
 
 - Added and changed some musics.
-- Added Alternate Graphics.
+- Added Alternate Graphics (Separate download, will be intergrated after 0.3).
 - New font system, which supports UTF-8 characters.
 - New World Map Background.
 - Updated Mountain Background.
 - Updated Red Coin.
+- Updated Bump Block.
+- Updated Power Star.
 - Changed Waterfall (Original by Gatete, Recolour by Yingchun Soul).
 - Changed Mushroom Block (Made by Murphmario).
+- Changed cave backgrounds to original design, however black colour of rocks are now dark blue.
 - Fixed Big Boo's Frame.
 - Tweaked Hills.
 - Tweaked some sizables.
 - Tweaked colours of various BGO's and Blocks.
+
+Demo Episode Changes:
+
+- Added language switch (Currently there're only English and Chinese are available).
 
 # Version 0.2 - Mushroom Prototype (2022-09-13)
 

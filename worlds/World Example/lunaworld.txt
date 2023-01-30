@@ -1,0 +1,9 @@
+#0
+NPCMemSet,104,0x12A,180,0,0,w
+IfVar,0,0,0,1100,1,LanguageType
+IfVar,0,0,1,1101,1,LanguageType
+#1100
+TriggerSMBXEvent,0,0,0,0,1,E-LanguageText
+#1101
+TriggerSMBXEvent,0,0,0,0,1,C-LanguageText
+#END

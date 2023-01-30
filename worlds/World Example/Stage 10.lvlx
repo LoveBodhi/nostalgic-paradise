@@ -11345,7 +11345,7 @@ ID:173;X:-197024;Y:-200160;D:-1;
 ID:21;X:-192448;Y:-200128;D:-1;
 ID:21;X:-192416;Y:-200192;D:-1;
 ID:104;X:-191424;Y:-200256;D:1;S1:2;
-ID:104;X:-191056;Y:-200352;D:1;S1:2;
+ID:104;X:-190880;Y:-200352;D:1;S1:2;
 ID:175;X:-191936;Y:-200192;D:-1;
 ID:8;X:-192720;Y:-200240;D:-1;
 ID:8;X:-192784;Y:-200208;D:-1;
@@ -12210,4 +12210,6 @@ ET:"Qianbi 4";TE:"Qianbi 1";TD:13;ML:"Qianbi";MX:0;MY:0;AS:0;AX:0;AY:0;
 ET:"Game End";MG:"- End of Chapter 1 -";EG:1;AS:0;AX:0;AY:0;
 ET:"Game End-C";MG:"- 第1章完结 -";EG:1;AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
+ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
+ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

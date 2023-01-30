@@ -1,5 +1,5 @@
 HEAD
-TL:"Example Episode";SZ:10;
+TL:"Example Episode";SZ:10;CPID:"TheXTech";
 HEAD_END
 TILES
 ID:82;X:960;Y:480;
@@ -3395,7 +3395,7 @@ MUSICBOXES
 ID:1;X:1024;Y:544;
 MUSICBOXES_END
 LEVELS
-ID:26;X:1024;Y:544;LT:"Start";SP:1;
+ID:26;X:1024;Y:544;LT:"Start";LF:"Start.lvlx";SP:1;
 ID:2;X:1184;Y:544;LT:"Stage 1";LF:"Stage 1.lvlx";ER:8;
 ID:2;X:1536;Y:448;LT:"Stage 2";LF:"Stage 2.lvlx";ER:8;
 ID:2;X:1792;Y:608;LT:"Stage 3";LF:"Stage 3.lvlx";ER:8;

@@ -12,6 +12,8 @@ ShowText,0,319,82,3,0,Stage 2-4
 ShowText,0,319,82,3,0,Stage 2-4
 #6
 ShowText,0,319,82,3,0,Stage 2-S
+#7
+ShowText,0,319,82,3,0,Stage 2-2
 #1000
 Kill,0,0,0,0,1,0
 #END

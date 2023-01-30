@@ -26,7 +26,7 @@
 - MarioFan230
 - TheCrushedJoycon (+Permission)
 - Gatete
-- Jaden1291 (FutureNyanCat2002)
+- Astrakitu (Jaden1291 / FutureNyanCat2002)
 - SamS1m0n
 - MatiasNTRM
 
