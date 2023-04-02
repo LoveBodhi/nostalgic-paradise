@@ -1,18 +1,26 @@
-# Version 0.21 (WIP)
+# Version 0.2.1-Beta (WIP)
 
 Asset Changes:
 
 - Added and changed some musics.
-- Added Alternate Graphics (Separate download, will be intergrated after 0.3).
-- New font system, which supports UTF-8 characters.
-- New World Map Background.
+- Added Alternate Graphics.
+- New font system, which supports UTF-8 characters. Russian and Greek alphabets are added as well.
+- New World Map Border Background.
 - Updated Mountain Background.
 - Updated Red Coin.
 - Updated Bump Block.
 - Updated Power Star.
+- Updated Dark Blue Water (Recolour and edit by Yingchun Soul).
+- Updated Sparky Graphic.
+- Remade Text Box backdrop from scratch, based off Hello Mario Engine.
+- Remade Checkboard Block.
+- Remade Curtain.
 - Changed Waterfall (Original by Gatete, Recolour by Yingchun Soul).
 - Changed Mushroom Block (Made by Murphmario).
 - Changed cave backgrounds to original design, however black colour of rocks are now dark blue.
+- Changed Background Size of Forest Bush (BGO #163) from 3x1 to 2x1 due to the size of that BGO is hardcoded (unlike other general static BGO's).
+- Changed Ring to Murphmario's version.
+- Changed Ring Sound Effect to YI Coin.
 - Fixed Big Boo's Frame.
 - Tweaked Hills.
 - Tweaked some sizables.
