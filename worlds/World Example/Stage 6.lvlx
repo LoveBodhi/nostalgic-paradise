@@ -7325,6 +7325,7 @@ ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
 ET:"Tunshihua";MG:"The green muncher will hurt you when touched\, and the black muncher only hurts you when standing on the top.";AS:0;AX:0;AY:0;
 ET:"Tunshihua-C";MG:"碰到绿色吞食花的任何位置都会受伤，但黑色吞食花只有碰到其顶部才会受伤。";AS:0;AX:0;AY:0;
-ET:"Demo End";MG:"This is the end of the demo episode of Nostalgic Paradise Beta 0.16. We hope there will be more elements and features in the later version. Thanks for playing!";EG:1;AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
+ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
+ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

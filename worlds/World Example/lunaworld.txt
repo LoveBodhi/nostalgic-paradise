@@ -1,7 +1,50 @@
+//Status Bar Concept and Layout by Yingchun Soul, Autocode by SkullGamer205 (tweaked and fixed by Yingchun Soul)
+//After LUA script system support, this layout of status bar will be global.
+//Incompatible with 2 players co-op game mode.
+#-1
+//Status Bar Preload
+LoadImage,1,0xDC00FF,0,0,0,Interface1.png
+LoadImage,2,0xDC00FF,0,0,0,Interface2.png
+PlaceSprite,1,1,204,29,0,0
+PlaceSprite,1,1,328,50,0,0
+PlaceSprite,1,2,308,48,0,0
+$CurrentCoins,SetVar,1,0,0,-1,1,0
+$CurrentLifes,SetVar,1,0,0,-1,2,0
+$CurrentPoint,SetVar,1,0,0,-1,4,0
 #0
 NPCMemSet,104,0x12A,180,0,0,w
 IfVar,0,0,0,1100,1,LanguageType
 IfVar,0,0,1,1101,1,LanguageType
+//Status Bar Draw
+LunaControl,2,1,0,0,0,0
+FilterReservePowerup,0,0,0,0,0,0 // Item box has been disabled until LUA script system support
+$CurrentCoins,LoadGlobalVar,0x00B2C5A8,0,0,0,0,w
+$CurrentLifes,LoadGlobalVar,0x00B2C5AC,0,0,0,0,f
+$CurrentPoint,LoadGlobalVar,0x00B2C8E4,0,0,0,0,w
+$CurrentCoins,ShowVar,0,348,48,3,0,
+$CurrentLifes,ShowVar,0,224,27,3,0,
+$CurrentPoint,ShowVar,0,110,48,3,0,
+OnPlayerMem,0xF0,1,0,1050,w
+OnPlayerMem,0xF0,2,0,1051,w
+OnPlayerMem,0xF0,3,0,1052,w
+OnPlayerMem,0xF0,4,0,1053,w
+OnPlayerMem,0xF0,5,0,1054,w
+#1000
+Kill,0,0,0,0,1,0
+ShowText,0,600,27,3,600,TIMER
+ShowText,0,618,48,3,600,0
+#1050
+ShowText,0,110,27,3,1,Mario
+#1051
+ShowText,0,110,27,3,1,Luigi
+#1052
+ShowText,0,110,27,3,1,Peach
+#1053
+ShowText,0,110,27,3,1,Toad
+#1054
+ShowText,0,110,27,3,1,Link
+#1060
+PlaySFX,0,0,0,0,1,../hurry-up.ogg
 #1100
 TriggerSMBXEvent,0,0,0,0,1,E-LanguageText
 #1101

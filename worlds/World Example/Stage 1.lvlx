@@ -7082,7 +7082,7 @@ ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao1"];AS:0;AX:0;AY:0;
 ET:"Intro";MG:"Welcome to Nostalgic Paradise! Nostalgic Paradise is a TheXTech asset pack which is entirely of SMB1 16-bit style theme.";AS:0;AX:0;AY:0;
-ET:"Intro-C";MG:"欢迎来到复古乐园！复古乐园是一个以16位超级马力欧兄弟1为主题的TheXTech组件包。";AS:0;AX:0;AY:0;
+ET:"Intro-C";MG:"欢迎来到最初的意境！最初的意境是一个以16位超级马力欧兄弟1为主题的TheXTech组件包。";AS:0;AX:0;AY:0;
 ET:"Ground Plant";MG:"This is ground Piranha Plant\, which is stationary and meant to be placed outside pipes.";AS:0;AX:0;AY:0;
 ET:"Ground Plant-C";MG:"这是大地吞食花，它是静止的，应放置在水管以外的区域。";AS:0;AX:0;AY:0;
 ET:"Secret Level";MG:"Each stage includes a secret section\, and there's a star at the end. Try to find them!";AS:0;AX:0;AY:0;

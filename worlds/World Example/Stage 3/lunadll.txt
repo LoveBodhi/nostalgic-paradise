@@ -1,19 +1,19 @@
 #0
 Timer,0,1000,1,0,30060,0
+Timer,0,1060,0,0,24060,0
+ShowText,0,454,27,3,0,Stage
 #1
-ShowText,0,319,82,3,0,Stage 3-1
+ShowText,0,472,48,3,0,3-1
 #2
-ShowText,0,319,82,3,0,Stage 3-2
+ShowText,0,472,48,3,0,3-2
 #3
-ShowText,0,319,82,3,0,Stage 3-3
+ShowText,0,472,48,3,0,3-3
 #4
-ShowText,0,319,82,3,0,Stage 3-4
+ShowText,0,472,48,3,0,3-4
 #5
-ShowText,0,319,82,3,0,Stage 3-4
+ShowText,0,472,48,3,0,3-4
 #6
-ShowText,0,319,82,3,0,Stage 3-S
+ShowText,0,472,48,3,0,3-S
 #7
-ShowText,0,319,82,3,0,Stage 3-1
-#1000
-Kill,0,0,0,0,1,0
+ShowText,0,472,48,3,0,3-1
 #END

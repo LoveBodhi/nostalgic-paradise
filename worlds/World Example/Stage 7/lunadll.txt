@@ -1,27 +1,34 @@
 #0
 Timer,0,1000,1,0,30060,0
+Timer,0,1060,0,0,24060,0
+ShowText,0,454,27,3,0,Stage
 #1
-ShowText,0,319,82,3,0,Stage 7-1
+ShowText,0,472,48,3,0,7-1
 #2
-ShowText,0,319,82,3,0,Stage 7-2
+ShowText,0,472,48,3,0,7-2
 #3
-ShowText,0,319,82,3,0,Stage 7-3
+ShowText,0,472,48,3,0,7-3
 LayerYSpeed,3,0,0,0,0,0
 LayerYSpeed,4,0,0,0,0,0
 BlockTrigger,0,245,1,1001,0,0
 BlockTrigger,0,259,1,1002,0,0
+BlockTrigger,0,391,1,1003,0,0
 #4
-ShowText,0,319,82,3,0,Stage 7-4
+ShowText,0,472,48,3,0,7-4
 #5
-ShowText,0,319,82,3,0,Stage 7-4
+ShowText,0,472,48,3,0,7-4
 #6
-ShowText,0,319,82,3,0,Stage 7-S
-#1000
-Kill,0,0,0,0,1,0
+ShowText,0,472,48,3,0,7-S
 #1001
 AccelerateLayerY,3,4,0,0,64,0.06
 AccelerateLayerY,4,-4,0,0,64,-0.06
 #1002
 AccelerateLayerY,3,-4,0,0,64,-0.06
 AccelerateLayerY,4,4,0,0,64,0.06
+#1003
+OnInput,0,6,0,1004,1,0
+PlayerMemSet,0,0xE8,-10,0,1,dw
+PlaySFX,0,24,0,0,0,0
+#1004
+PlayerMemSet,0,0xE8,-80,0,1,dw
 #END

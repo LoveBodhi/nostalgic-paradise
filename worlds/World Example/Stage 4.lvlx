@@ -1,5 +1,5 @@
 HEAD
-SZ:1;
+SZ:1;CPID:"TheXTech";
 HEAD_END
 SECTION
 SC:0;L:-200000;R:-184480;T:-200600;B:-200000;MZ:1;MF:"";BG:34;
@@ -7717,4 +7717,6 @@ ET:"Pinghengti";MG:"Balanced platforms are made by using LunaDLL's Autocode and 
 ET:"Pinghengti-C";MG:"当前TheXTech版本的平衡梯通过LunaDLL的代码及大量图层实现。";AS:0;AX:0;AY:0;
 ET:"Maze";MG:"This is a maze castle. Can you find the correct path?";AS:0;AX:0;AY:0;
 ET:"Maze-C";MG:"这是一个城堡迷宫。您能找到正确的路线吗？";AS:0;AX:0;AY:0;
+ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
+ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

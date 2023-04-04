@@ -29,6 +29,7 @@ Asset Changes:
 Demo Episode Changes:
 
 - Added language switch (Currently there're only English and Chinese are available).
+- Changed Status Bar, which will be global in the future. Item Box has been disabled temporaily.
 
 # Version 0.2 - Mushroom Prototype (2022-09-13)
 

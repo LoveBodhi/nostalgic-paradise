@@ -4428,6 +4428,8 @@ ID:266;X:-79392;Y:-80544;W:32;H:32;
 ID:266;X:-79392;Y:-80576;W:32;H:32;
 ID:266;X:-79392;Y:-80608;W:32;H:32;
 ID:277;X:-79264;Y:-80512;W:32;H:32;
+ID:92;X:-199392;Y:-200736;W:128;H:128;
+ID:92;X:-197952;Y:-200736;W:128;H:128;
 BLOCK_END
 BGO
 ID:18;X:-199936;Y:-200128;
@@ -7212,6 +7214,8 @@ ET:"Level - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
-ET:"POW Block";MG:"Due to the current version of TheXTech's limitation\, Invincible Stars are replaced by POW blocks.";AS:0;AX:0;AY:0;
+ET:"POW Block";MG:"Due to the current version of TheXTech's limitation\, Super Stars are replaced by POW blocks.";AS:0;AX:0;AY:0;
 ET:"POW Block-C";MG:"由于当前的TheXTech版本限制，无敌星已替换为POW砖块。";AS:0;AX:0;AY:0;
+ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
+ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

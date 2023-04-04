@@ -1,11 +1,13 @@
 #0
 Timer,0,1000,1,0,30060,0
+Timer,0,1060,0,0,24060,0
+ShowText,0,454,27,3,0,Stage
 #1
-ShowText,0,319,82,3,0,Stage 5-1
+ShowText,0,472,48,3,0,5-1
 #2
-ShowText,0,319,82,3,0,Stage 5-2
+ShowText,0,472,48,3,0,5-2
 #3
-ShowText,0,319,82,3,0,Stage 5-3
+ShowText,0,472,48,3,0,5-3
 LayerYSpeed,4,0,0,0,0,0
 LayerYSpeed,5,0,0,0,0,0
 LayerYSpeed,6,0,0,0,0,0
@@ -27,11 +29,11 @@ BlockTrigger,0,568,1,1008,0,0
 BlockTrigger,0,240,1,1009,0,0
 BlockTrigger,0,440,1,1010,0,0
 #4
-ShowText,0,319,82,3,0,Stage 5-4
+ShowText,0,472,48,3,0,5-4
 #5
-ShowText,0,319,82,3,0,Stage 5-4
+ShowText,0,472,48,3,0,5-4
 #6
-ShowText,0,319,82,3,0,Stage 5-S
+ShowText,0,472,48,3,0,5-S
 #1000
 Kill,0,0,0,0,1,0
 #1001
