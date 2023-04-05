@@ -7215,7 +7215,7 @@ ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
 ET:"POW Block";MG:"Due to the current version of TheXTech's limitation\, Super Stars are replaced by POW blocks.";AS:0;AX:0;AY:0;
-ET:"POW Block-C";MG:"由于当前的TheXTech版本限制，无敌星已替换为POW砖块。";AS:0;AX:0;AY:0;
+ET:"POW Block-C";MG:"由于当前的TheXTech版本限制，无敌星已被替换为POW砖块。";AS:0;AX:0;AY:0;
 ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

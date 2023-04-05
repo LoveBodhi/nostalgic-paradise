@@ -7088,9 +7088,9 @@ ET:"Ground Plant-C";MG:"这是大地吞食花，它是静止的，应放置在�
 ET:"Secret Level";MG:"Each stage includes a secret section\, and there's a star at the end. Try to find them!";AS:0;AX:0;AY:0;
 ET:"Secret Level-C";MG:"每个阶段都有一个隐藏场景，其终点为一颗星星，您能找到它吗？";AS:0;AX:0;AY:0;
 ET:"Zhongjidian";MG:"This is checkpoint. When you die after touched\, you will be respawned from the checkpoint. Since TheXTech supports infinite checkpoints\, there're checkpoints between the each of substages.";AS:0;AX:0;AY:0;
-ET:"Zhongjidian-C";MG:"这是中继点，当您触碰中继点之后死亡时，您将会从中继点开始。因为TheXTech支持无限中继点，所以每个子区域的交叉点都有一个中继点。";AS:0;AX:0;AY:0;
+ET:"Zhongjidian-C";MG:"这是中继点，当您触碰中继点之后死亡时，您将会从中继点开始。因为TheXTech支持无限中继点，所以在每个阶段中，各个子区域的交叉点都存在一个中继点。";AS:0;AX:0;AY:0;
 ET:"Bone Plant";MG:"Bone Piranha Plants are immune to fireballs.";AS:0;AX:0;AY:0;
-ET:"Bone Plant-C";MG:"骨头吞食花不受火球的影响。";AS:0;AX:0;AY:0;
+ET:"Bone Plant-C";MG:"枯骨吞食花不受火球的影响。";AS:0;AX:0;AY:0;
 ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

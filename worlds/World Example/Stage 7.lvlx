@@ -7732,7 +7732,6 @@ IX:-152272;IY:-160352;OX:-99920;OY:-100192;DT:1;ID:3;OD:3;
 IX:-145808;IY:-160192;OX:-139744;OY:-140192;DT:2;ID:1;OD:1;TW:1;
 IX:-126976;IY:-140160;OX:-119824;OY:-120160;DT:2;ID:1;OD:1;
 IX:-81440;IY:-100128;DT:2;ID:1;OD:1;EX:1;TE:4;
-IX:-199872;IY:-200128;OX:-159296;OY:-160160;DT:3;ID:1;OD:1;
 DOORS_END
 LAYERS
 LR:"Default";
@@ -7750,7 +7749,7 @@ ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
 ET:"Note 1";MG:"Green trampolines\, which makes player jump very high\, are uncarriable due to it's written by LunaScript's Autocode.";AS:0;AX:0;AY:0;
-ET:"Note 1-C";MG:"由于绿色弹簧，即让玩家能够弹跳更高的弹簧，采用LunaScript Autocode编写，因此无法搬运。";AS:0;AX:0;AY:0;
+ET:"Note 1-C";MG:"由于绿色弹簧，即让玩家能够弹跳得更高的弹簧，采用\nLunaScript Autocode编写，因此无法搬运。";AS:0;AX:0;AY:0;
 ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END
