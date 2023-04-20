@@ -20,7 +20,7 @@ LunaControl,2,1,0,0,0,0
 FilterReservePowerup,0,0,0,0,0,0 // Item box has been disabled until LUA script system support
 $CurrentCoins,LoadGlobalVar,0x00B2C5A8,0,0,0,0,w
 $CurrentLifes,LoadGlobalVar,0x00B2C5AC,0,0,0,0,f
-$CurrentPoint,LoadGlobalVar,0x00B2C8E4,0,0,0,0,f
+$CurrentPoint,LoadGlobalVar,0x00B2C8E4,0,0,0,0,dw
 $CurrentCoins,ShowVar,0,348,48,3,0,
 $CurrentLifes,ShowVar,0,224,27,3,0,
 $CurrentPoint,ShowVar,0,110,48,3,0,
