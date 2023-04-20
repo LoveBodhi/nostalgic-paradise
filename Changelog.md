@@ -1,10 +1,29 @@
-# Version 0.2.1-Beta (WIP)
+# Version 0.2.1 (WIP)
+
+Asset Changes:
+
+- Added new musics.
+- Remade puzzle blocks.
+- Changed Wetland Background.
+
+# Version 0.2.1-Beta - Hotfix 1 (2023-04-07)
+
+Asset Changes:
+
+- Scenezone is now looped from start to end.
+
+Demo Episode Changes:
+
+- Change score type (to double word) in the lunaworld.txt. (Thanks to Skullgamer205 and Wohlstand)
+
+# Version 0.2.1-Beta - 1st Anniversary Release (2023-04-06)
 
 Asset Changes:
 
 - Added and changed some musics.
 - Added Alternate Graphics.
-- New font system, which supports UTF-8 characters. Russian and Greek alphabets are added as well.
+- Added more intro level varients.
+- New font system, which supports UTF-8 characters. Russian and Greek alphabets are added as well. The letters "M" and "W" are now in a fixed size.
 - New World Map Border Background.
 - Updated Mountain Background.
 - Updated Red Coin.
@@ -18,7 +37,7 @@ Asset Changes:
 - Changed Waterfall (Original by Gatete, Recolour by Yingchun Soul).
 - Changed Mushroom Block (Made by Murphmario).
 - Changed cave backgrounds to original design, however black colour of rocks are now dark blue.
-- Changed Background Size of Forest Bush (BGO #163) from 3x1 to 2x1 due to the size of that BGO is hardcoded (unlike other general static BGO's).
+- Changed Size of Forest Bush (BGO #163) from 3x1 to 2x1 due to the size of that BGO is hardcoded (unlike other general static BGO's).
 - Changed Ring to Murphmario's version.
 - Changed Ring Sound Effect to YI Coin.
 - Fixed Big Boo's Frame.
@@ -29,6 +48,7 @@ Asset Changes:
 Demo Episode Changes:
 
 - Added language switch (Currently there're only English and Chinese are available).
+- Added Bonus Rooms for partial stages.
 - Changed Status Bar, which will be global in the future. Item Box has been disabled temporaily.
 
 # Version 0.2 - Mushroom Prototype (2022-09-13)
