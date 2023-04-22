@@ -4,7 +4,13 @@ Asset Changes:
 
 - Added new musics.
 - Remade puzzle blocks.
+- Changed Flip Block to Kojimkj's version.
 - Changed Wetland Background.
+- Improved Wide Trees (Thanks to P-Tux7).
+
+Demo Episode Changes:
+
+- Overhauled theme of Stage 1-S.
 
 # Version 0.2.1-Beta - Hotfix 1 (2023-04-07)
 
