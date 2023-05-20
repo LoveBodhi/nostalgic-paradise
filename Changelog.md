@@ -1,12 +1,23 @@
-# Version 0.2.1 (WIP)
+# Version 0.2.1-Beta 2 (WIP)
 
 Asset Changes:
 
 - Added new musics.
+- Added Vine Bottom.
+- Added Stone Ball BGO for placing inside blocks.
+- Added Hoopster.
 - Remade puzzle blocks.
+- Remade Small Pipes.
 - Changed Flip Block to Kojimkj's version.
 - Changed Wetland Background.
+- Changed Palm Trees, which will be used for NPC \#272 (Hoopster).
+- Changed Muncher to SuperSledgeBro's version, including hyper one (Palette Change by Yingchun Soul).
+- Updated SuperSledgeBro's Desert Tileset.
+- Updated SuperSledgeBro's Enemies.
+- Improved Tree Branch.
 - Improved Wide Trees (Thanks to P-Tux7).
+- Restored Coral Tile to original design.
+- Tweaked Mega Mole.
 
 Demo Episode Changes:
 
