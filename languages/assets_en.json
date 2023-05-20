@@ -7,7 +7,6 @@
         "name5": "Link"
     },
     "editor": {
-        //Needs to be synchronized with editor.ini, so complete it by first
         "background2": {
             "auto": {
                 "bg2-0": "None"
@@ -469,7 +468,7 @@
     },
     "languageName": "English",
     "objects": {
-        "wordFails": "Fail",
+        "wordFails": "Deaths",
         "wordStarAccusativeDualOrCounter": "",
         "wordStarAccusativePlural": "power stars",
         "wordStarAccusativeSingular": "power star"
