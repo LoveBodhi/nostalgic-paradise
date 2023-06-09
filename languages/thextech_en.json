@@ -108,7 +108,7 @@
             "confirmConvertFormatTo": "Convert format to {0}?",
             "confirmSaveBeforeAction": "Save before you {0}?",
             "convert": {
-                "_38aUnsupported": "The SMBX38-A format is not supported for conversion.",
+                "_38aUnsupported": "The SMBX-38A format is not supported for conversion.",
                 "desc1": "The file extension will change but",
                 "desc2": "the old file will NOT be deleted.",
                 "featureBlockForceSmashable": "A spin block uses ancient smashable behavior.",
@@ -289,21 +289,21 @@
                 "door": "Door",
                 "pipe": "Pipe",
                 "portal": "Port",
-                "style": "Style: "
+                "style": "Type: "
             },
             "target": "Target: ",
             "title": "Warp Settings",
             "to": "To: {0}",
             "toMap": "To Map",
             "transit": {
-                "name0": "NONE",
-                "name1": "SCROLL",
-                "name2": "FADE",
-                "name3": "CIRCLE",
-                "name4": "FLIP (H)",
-                "name5": "FLIP (V)"
+                "name0": "None",
+                "name1": "Scroll",
+                "name2": "Fade",
+                "name3": "Circle",
+                "name4": "H-Flip",
+                "name5": "V-Flip"
             },
-            "twoWay": "Bidirectional"
+            "twoWay": "Bidir."
         },
         "water": {
             "title": "Liquid Settings"
@@ -572,7 +572,7 @@
             "mainBattleGame": "VS Battle",
             "mainEditor": "Nostalgic Studio",
             "mainExit": "Exit",
-            "mainMultiplayerGame": "2 Player Co-op",
+            "mainMultiplayerGame": "Multiplayer",
             "mainOptions": "Options",
             "mainStartGame": "Start Game"
         },
