@@ -469,7 +469,7 @@
     "languageName": "English",
     "objects": {
         "wordFails": "Deaths",
-        "wordStarAccusativeDualOrCounter": "",
+        "wordStarAccusativeDualOrCounter": "<Unused>",
         "wordStarAccusativePlural": "power stars",
         "wordStarAccusativeSingular": "power star"
     }

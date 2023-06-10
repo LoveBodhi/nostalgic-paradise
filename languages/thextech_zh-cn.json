@@ -359,12 +359,12 @@
         },
         "error": {
             "openFileFailed": "错误：无法打开文件\"{0}\"：文件不存在或已损坏。",
-            "warpNeedStarCount": "你需要{0}{2}{1}才能进入此传送点。"
+            "warpNeedStarCount": "至少需要{0}{2}{1}才能进入这里。"
         },
         "pause": {
             "continue": "继续",
             "dropAddPlayers": "加入/离开游戏",
-            "enterCode": "输入代码",
+            "enterCode": "输入指令",
             "quit": "退出",
             "quitTesting": "结束测试",
             "resetCheckpoints": "重置中间点",
@@ -563,8 +563,8 @@
             "gameSlotNew": "存档 {0} ... 新游戏",
             "gameSourceSlot": "选择源存档",
             "gameTargetSlot": "选择目标存档",
-            "phraseScore": "得分：",
-            "phraseTime": "时间："
+            "phraseScore": "得分：{0}",
+            "phraseTime": "时间：{0}"
         },
         "loading": "加载中...",
         "main": {
