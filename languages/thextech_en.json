@@ -369,7 +369,7 @@
             "quitTesting": "End Testing",
             "resetCheckpoints": "Reset Checkpoints",
             "restartLevel": "Restart Level",
-            "returnToEditor": "Return to Editor",
+            "returnToEditor": "Return to Studio",
             "saveAndContinue": "Save and Continue",
             "saveAndQuit": "Save and Quit"
         }
@@ -453,7 +453,7 @@
                 "activateProfile": "Activate profile",
                 "cursorControls": "Cursor controls",
                 "deleteProfile": "Delete profile",
-                "editorControls": "Editor controls",
+                "editorControls": "Studio controls",
                 "hotkeys": "Hotkeys",
                 "playerControls": "Player controls",
                 "renameProfile": "Rename profile"
