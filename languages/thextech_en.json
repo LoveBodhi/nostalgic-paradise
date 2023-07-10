@@ -118,14 +118,14 @@
                 "featureLevelStarDisplay": "A level uses setting for star display.",
                 "featureNPCVariant": "An NPC uses a behavior variant.",
                 "featureWarpCannonExit": "A warp has the cannon exit effect.",
-                "featureWarpCustomStarsMsg": "A warp has a custom stars message.",
+                "featureWarpCustomStarsMsg": "A warp has a custom power stars message.",
                 "featureWarpEnterEvent": "A warp triggers an event on entry.",
                 "featureWarpNeedsStand": "A warp requires player to stand.",
-                "featureWarpNoPrintStars": "A warp hides target level stars.",
+                "featureWarpNoPrintStars": "A warp hides target level power stars.",
                 "featureWarpNoStartScene": "A level warp skips the start scene.",
                 "featureWarpPortal": "A warp uses the portal effect.",
                 "featureWarpTransit": "A warp uses new transition effect.",
-                "featureWorldStarDisplay": "Uses world setting for star display.",
+                "featureWorldStarDisplay": "Uses world setting for power star display.",
                 "featuresWillBeLost": "The features below will be LOST:",
                 "formatUnknown": "Requested format is unknown.",
                 "noIssues": "There are no compatibility issues."
@@ -249,7 +249,7 @@
         "tooltip": {
             "BGOs": "Decoration",
             "NPCs": "Enemies & Items",
-            "blocks": "Tiles",
+            "blocks": "Tiles & Blocks",
             "erase": "Erase",
             "eraseAll": "Erase All",
             "events": "Events",
@@ -280,10 +280,10 @@
             "out": "Out",
             "placing": "Placing:",
             "ride": "Ride",
-            "showStarCount": "Show Star Count",
+            "showStarCount": "Show P.Star Count",
             "showStartScene": "Show Start Scene",
             "speed": "Speed ",
-            "starLockMessage": "Star lock msg",
+            "starLockMessage": "P.Star lock msg",
             "style": {
                 "blipInstant": "Blip",
                 "door": "Door",
@@ -331,7 +331,7 @@
             "name": "World Name",
             "phraseCreditIndex": "World Credit Line {0}:",
             "retryOnFail": "Retry On Fail",
-            "totalStars": "Total Stars: "
+            "totalStars": "Total P.Stars: "
         }
     },
     "game": {

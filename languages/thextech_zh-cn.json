@@ -115,17 +115,17 @@
                 "featureCustomWorldMusic": "在大地图中设置了自定义音乐。",
                 "featureEventAutoscroll": "在事件中设置了新版的强制卷轴。",
                 "featureEventCustomMusic": "在事件中设置了自定义音乐。",
-                "featureLevelStarDisplay": "在关卡中使用了星星数量的显示设置。",
+                "featureLevelStarDisplay": "在关卡中使用了力量之星数量的显示设置。",
                 "featureNPCVariant": "在NPC中采用了其他的AI。",
                 "featureWarpCannonExit": "传送点设置了水管炮出口。",
-                "featureWarpCustomStarsMsg": "传送点设置了需要星星进入的自定义信息。",
+                "featureWarpCustomStarsMsg": "传送点设置了需要力量之星进入的自定义信息。",
                 "featureWarpEnterEvent": "传送点设置了进入触发事件。",
                 "featureWarpNeedsStand": "传送点设置了需要角色站立时才可进入。",
-                "featureWarpNoPrintStars": "传送点设置了不显示星星数量。",
+                "featureWarpNoPrintStars": "传送点设置了不显示力量之星数量。",
                 "featureWarpNoStartScene": "传送点设置了不显示开始界面。",
                 "featureWarpPortal": "传送点使用了传送门。",
                 "featureWarpTransit": "传送点使用了过渡效果。",
-                "featureWorldStarDisplay": "使用了大地图的设置以显示星星数量。",
+                "featureWorldStarDisplay": "使用了大地图的设置以显示力量之星数量。",
                 "featuresWillBeLost": "下列特性将会丢失：",
                 "formatUnknown": "请求的格式不支持。",
                 "noIssues": "该操作不会造成任何兼容性问题。"
@@ -249,7 +249,7 @@
         "tooltip": {
             "BGOs": "装饰",
             "NPCs": "敌人及物品",
-            "blocks": "地形",
+            "blocks": "地形及砖块",
             "erase": "删除",
             "eraseAll": "删除全部",
             "events": "事件",
@@ -280,10 +280,10 @@
             "out": "出口",
             "placing": "放置：",
             "ride": "坐骑",
-            "showStarCount": "显示星星数量",
+            "showStarCount": "显示力量之星数量",
             "showStartScene": "显示开场界面",
             "speed": "速度：",
-            "starLockMessage": "需要星星时的信息",
+            "starLockMessage": "需要力量之星时的信息",
             "style": {
                 "blipInstant": "瞬移",
                 "door": "门",
@@ -331,7 +331,7 @@
             "name": "地图名称",
             "phraseCreditIndex": "地图制作团队 第{0}行：",
             "retryOnFail": "失败之后重新开始",
-            "totalStars": "总星星数："
+            "totalStars": "力量之星总数："
         }
     },
     "game": {
@@ -547,8 +547,8 @@
             "wordProfiles": "配置"
         },
         "editor": {
-            "errorMissingResources": "无法进入复古工作室：文件{0}未找到。",
-            "errorResolution": "无法进入复古工作室：当前设置的分辨率不支持。",
+            "errorMissingResources": "无法进入初见工作室：文件{0}未找到。",
+            "errorResolution": "无法进入初见工作室：当前设置的分辨率不支持。",
             "newWorld": "<新地图>",
             "promptNewWorldName": "新地图名称"
         },
@@ -570,7 +570,7 @@
         "main": {
             "main1PlayerGame": "单人游戏",
             "mainBattleGame": "对战模式",
-            "mainEditor": "复古工作室",
+            "mainEditor": "初见工作室",
             "mainExit": "退出",
             "mainMultiplayerGame": "多人游戏",
             "mainOptions": "设置",
