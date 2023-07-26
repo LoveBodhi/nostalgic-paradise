@@ -9,6 +9,7 @@ Asset Changes:
 - Added General Localizations (Only Chinese and English).
 - Remade puzzle blocks.
 - Remade Small Pipes.
+- Remade Conveyor Belt Switch Block.
 - Changed Flip Block to Kojimkj's version.
 - Changed Wetland Background.
 - Changed Palm Trees, which will be used for NPC \#272 (Hoopster).
@@ -16,12 +17,16 @@ Asset Changes:
 - Changed Castle Stairs tileset to Askywalker's version (Tweak by Yingchun Soul).
 - Changed Castle 3 background to Askywalker's version.
 - Changed Castle Sizable (Block \#441) to Askywalker's version.
+- Changed Arrow Sign to Askywalker's version.
+- Changed Sizable Blockland Blocks to Yingchun Soul's Version.
+- Removed other two mushroom platforms, added Log Tileset and Dungeon Blocks.
 - Updated SuperSledgeBro's Desert Tileset.
 - Updated SuperSledgeBro's Enemies.
 - Updated Donut Plains Tileset.
 - Improved Tree Branch.
 - Improved Wide Trees (Thanks to P-Tux7).
 - Restored Coral Tile to original design.
+- Replaced Skull Switch (For triggering events) with Grey Star Switch.
 - Tweaked Mega Mole.
 
 Demo Episode Changes:

@@ -29,6 +29,8 @@
 - Astrakitu (Jaden1291 / FutureNyanCat2002)
 - SamS1m0n
 - MatiasNTRM
+- gbradley231
+- Askywalker
 
 ## Music
 
