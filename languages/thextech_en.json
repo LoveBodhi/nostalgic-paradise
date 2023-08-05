@@ -321,7 +321,8 @@
             "phraseCreditIndex": "World Credit Line {0}:",
             "retryOnFail": "Retry On Fail",
             "totalStars": "Total P.Stars: "
-        }
+        },
+	"phraseGenericIndex": "No. {0}"
     },
     "game": {
         "connect": {
