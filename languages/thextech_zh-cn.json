@@ -24,7 +24,7 @@
                 "changeSectionBoundsToCurrent": "改变场景{0}的范围到当前设置吗？",
                 "shouldEvent": "要使事件{0}"
             },
-            "controlsForEvent": "强制按下玩家按键",
+            "controlsForEventN": "强制按下玩家按键：{0}",
             "deletion": {
                 "cancel": "否：不删除事件",
                 "confirm": "是：删除事件",
@@ -37,7 +37,7 @@
                 "enter": "进入传送点时",
                 "hit": "砖块被撞击时",
                 "layerClear": "当前图层中的对象为空时",
-		"phraseTriggersAfterTemplate": "将于事件：{2}经过{1}毫秒之后，触发{0}事件",
+                "phraseTriggersAfterTemplate": "将于事件：{2}经过{1}毫秒之后，触发{0}事件",
                 "phraseTriggersWhenTemplate": "{0}：{1}触发该事件",
                 "talk": "和NPC对话后"
             },
@@ -86,7 +86,7 @@
                 "propBounds": "场景范围",
                 "propMusic": "音乐"
             },
-            "settingsForEvent": "事件选项"
+            "settingsForEvent": "{0}事件选项"
         },
         "file": {
             "actionClearLevel": "清除关卡",
@@ -182,7 +182,7 @@
                 "jump": "跳跃",
                 "leap": "飞跃",
                 "swim": "游泳",
-                "target": "追踪",
+                "target": "跟踪",
                 "use1_0Ai": "使用1.0 AI？"
             },
             "gen": {
@@ -219,11 +219,11 @@
             "underwater": "水下"
         },
         "select": {
-            "allSectPropBlankForEvent": "更改所有场景{0}于事件",
+            "allSectPropBlankForEventN": "更改所有场景{0}于{1}事件",
             "pathBlankUnlock": "路线向{0}开启条件",
-            "sectBlankPropBlankForEvent": "更改场景{0}的{1}于事件",
+            "sectBlankPropBlankForEventN": "更改场景{0}的{1}于{2}事件",
             "sectionBlankPropBlank": "场景{0}{1}",
-            "soundForEvent": "播放声音",
+            "soundForEventN": "执行{0}事件时播放音效",
             "warpTransitEffect": "过渡效果",
             "worldMusic": "大地图音乐"
         },
@@ -348,6 +348,8 @@
             "phrasePlayerDisconnected": "玩家{0}未连接任何设备"
         },
         "error": {
+	    "errorInvalidEnterWarp": "========= 发生错误! =========\n\n作为关卡起点的传送点{1}号不存在，因此无法启动关卡。\n传送点总数：{2}\n\n文件：{0}",
+            "errorNoStartPoint": "========= 发生错误! =========\n\n未放置玩家起点或传送点入口，因此无法启动关卡。\n\n文件：{0}",
             "openFileFailed": "错误：无法打开文件\"{0}\"：文件不存在或已损坏。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能进入这里。"
         },
@@ -359,7 +361,7 @@
             "quitTesting": "结束测试",
             "resetCheckpoints": "重置中间点",
             "restartLevel": "重新开始",
-            "returnToEditor": "返回编辑器",
+            "returnToEditor": "返回工作室",
             "saveAndContinue": "保存并继续",
             "saveAndQuit": "保存并退出"
         }
@@ -443,7 +445,7 @@
                 "activateProfile": "启用配置",
                 "cursorControls": "鼠标控制",
                 "deleteProfile": "删除配置",
-                "editorControls": "编辑器控制",
+                "editorControls": "工作室控制",
                 "hotkeys": "热键",
                 "playerControls": "玩家控制",
                 "renameProfile": "重命名配置"
@@ -569,7 +571,14 @@
         "options": {
             "optionsModeFullScreen": "全屏模式",
             "optionsModeWindowed": "窗口模式",
-            "optionsViewCredits": "查看制作团队"
+            "optionsViewCredits": "查看制作团队",
+	    "restartEngine": "重启引擎后生效",
+            "scale": {
+                "integer": "整数",
+                "label": "图像缩放",
+                "linear": "双线性",
+                "nearest": "最近邻居"
+            }
         },
         "wordBack": "返回",
         "wordHide": "隐藏",
