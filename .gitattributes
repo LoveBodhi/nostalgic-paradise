@@ -2,6 +2,7 @@
 
 *.lvlx text eol=crlf
 *.wldx text eol=crlf
+*.md text eol=crlf
 *.ini text eol=lf
 *.lua text eol=crlf
 *.txt text eol=crlf
