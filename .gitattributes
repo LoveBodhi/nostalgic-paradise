@@ -1,0 +1,20 @@
+* text=auto
+
+*.lvlx text eol=crlf
+*.wldx text eol=crlf
+*.ini text eol=lf
+*.lua text eol=crlf
+*.txt text eol=crlf
+npc-*.txt text eol=crlf
+*.sav text eol=crlf
+
+*.png binary
+*.jpg binary
+*.mp3 binary
+*.ogg binary
+*.xm binary
+*.mod binary
+*.it binary
+*.s3m binary
+*.dll binary
+*.spc binary
