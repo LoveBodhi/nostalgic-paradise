@@ -23,6 +23,7 @@ Asset Changes:
 - Updated SuperSledgeBro's Desert Tileset.
 - Updated SuperSledgeBro's Enemies.
 - Updated Donut Plains Tileset.
+- Updated Iceball.
 - Improved Tree Branch.
 - Improved Wide Trees (Thanks to P-Tux7).
 - Restored Coral Tile to original design.
