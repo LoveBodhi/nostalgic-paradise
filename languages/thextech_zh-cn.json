@@ -206,6 +206,7 @@
         "phraseAreYouSure": "您确定吗？",
         "phraseCountMore": "更多{0}",
         "phraseDelayIsMs": "延迟：{0}毫秒",
+	"phraseGenericIndex": "编号：{0}",
         "phraseRadiusIndex": "半径{0}",
         "phraseSectionIndex": "场景{0}",
         "phraseTextOf": "{0}的文字信息",
@@ -321,8 +322,7 @@
             "phraseCreditIndex": "地图制作团队 第{0}行：",
             "retryOnFail": "失败之后重新开始",
             "totalStars": "力量之星总数："
-        },
-	"phraseGenericIndex": "编号：{0}"
+        }
     },
     "game": {
         "connect": {
@@ -572,6 +572,8 @@
             "optionsModeFullScreen": "全屏模式",
             "optionsModeWindowed": "窗口模式",
             "optionsViewCredits": "查看制作团队",
+	    "render": "图形渲染方式: {0}",
+            "renderX": "图形渲染方式: {0} (X)",
 	    "restartEngine": "重启引擎后生效",
             "scale": {
                 "integer": "整数",

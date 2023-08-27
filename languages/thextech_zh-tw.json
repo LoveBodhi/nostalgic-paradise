@@ -206,6 +206,7 @@
         "phraseAreYouSure": "您確定嗎？",
         "phraseCountMore": "更多{0}",
         "phraseDelayIsMs": "延遲：{0}毫秒",
+	"phraseGenericIndex": "編號：{0}",
         "phraseRadiusIndex": "半徑{0}",
         "phraseSectionIndex": "場景{0}",
         "phraseTextOf": "{0}的文字信息",
@@ -321,8 +322,7 @@
             "phraseCreditIndex": "地圖製作團隊 第{0}行：",
             "retryOnFail": "失敗之後重新開始",
             "totalStars": "力量之星總數："
-        },
-	"phraseGenericIndex": "編號：{0}"
+        }
     },
     "game": {
         "connect": {
@@ -569,7 +569,16 @@
         "options": {
             "optionsModeFullScreen": "全屏模式",
             "optionsModeWindowed": "窗口模式",
-            "optionsViewCredits": "查看製作團隊"
+            "optionsViewCredits": "查看製作團隊",
+	    "render": "圖形渲染方式: {0}",
+            "renderX": "圖形渲染方式: {0} (X)",
+	    "restartEngine": "重啓引擎後生效",
+            "scale": {
+                "integer": "整數",
+                "label": "圖像縮放",
+                "linear": "雙線性",
+                "nearest": "最近鄰居"
+            }
         },
         "wordBack": "返回",
         "wordHide": "隱藏",

@@ -206,6 +206,7 @@
         "phraseAreYouSure": "Are you sure?",
         "phraseCountMore": "{0} More",
         "phraseDelayIsMs": "Delay: {0} ms",
+	"phraseGenericIndex": "No. {0}",
         "phraseRadiusIndex": "Radius {0}",
         "phraseSectionIndex": "Section {0}",
         "phraseTextOf": "{0} Text",
@@ -321,8 +322,7 @@
             "phraseCreditIndex": "World Credit Line {0}:",
             "retryOnFail": "Retry On Fail",
             "totalStars": "Total P.Stars: "
-        },
-	"phraseGenericIndex": "No. {0}"
+        }
     },
     "game": {
         "connect": {
@@ -572,6 +572,8 @@
             "optionsModeFullScreen": "Fullscreen mode",
             "optionsModeWindowed": "Windowed mode",
             "optionsViewCredits": "View credits",
+	    "render": "Render Type: {0}",
+            "renderX": "Render Type: {0} (X)",
 	    "restartEngine": "Restart engine for changes to take effect.",
             "scale": {
                 "integer": "Integer",
