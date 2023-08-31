@@ -1,7 +1,9 @@
 * text=auto
 
-*.lvlx text eol=crlf
-*.wldx text eol=crlf
+*.lvlx text eol=lf
+*.wldx text eol=lf
+*.lvl text eol=crlf
+*.wld text eol=crlf
 *.md text eol=crlf
 *.ini text eol=lf
 *.lua text eol=crlf
@@ -17,9 +19,9 @@ npc-*.txt text eol=crlf
 *.dll binary
 *.mp3 binary
 *.ogg binary
+*.opus binary
 *.xm binary
 *.mod binary
 *.it binary
 *.s3m binary
-*.dll binary
 *.spc binary
