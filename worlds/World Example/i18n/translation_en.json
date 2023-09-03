@@ -1,0 +1,139 @@
+{
+    " episode_title": "Example Episode",
+    " episode_world": "Example.wldx",
+    "Stage 1.lvlx": {
+	"events": [
+            {
+		"tr-id": "Intro",
+                "msg": "Welcome to Nostalgic Paradise! Nostalgic Paradise is a TheXTech asset pack which is entirely of SMB1 16-bit style theme."
+            },
+	    {
+		"tr-id": "GroundPlant",
+                "msg": "This is ground Piranha Plant, which is stationary and meant to be placed outside pipes."
+            },
+	    {
+		"tr-id": "SecretLevel",
+                "msg": "Each stage includes a secret section, and there's a star at the end. Try to find them!"
+            },
+	    {
+		"tr-id": "Checkpoint",
+                "msg": "This is checkpoint. When you die after touched, you will be respawned from the checkpoint. Since TheXTech supports infinite checkpoints, there're checkpoints between the each of substages."
+            },
+	    {
+		"tr-id": "BonePlant",
+                "msg": "Bone Piranha Plants are immune to fireballs."
+            }
+        ]
+    },
+    "Stage 3.lvlx": {
+        "events": [
+            {
+	        "tr-id": "POWBlock",
+                "msg": "Due to feature restriction of the current version of TheXTech, Super Stars are replaced by POW blocks."
+            }
+        ]
+    },
+    "Stage 4.lvlx": {
+        "events": [
+            {
+	        "tr-id": "FrozenBlock",
+                "msg": "Frozen items can be defrosted by fireballs."
+            },
+	    {
+	        "tr-id": "ScaleLift",
+                "msg": "Scale Lifts are made by using LunaScript's Autocode and a multiple of layers at the current version of TheXTech."
+            },
+	    {
+	        "tr-id": "Maze",
+                "msg": "This is a maze castle. Can you find the correct path?"
+            }
+        ]
+    },
+    "Stage 6.lvlx": {
+        "events": [
+            {
+	        "tr-id": "PiranhaPlant",
+                "msg": "The green muncher will hurt you when touched, and the black muncher only hurts you when standing on the top."
+            }
+        ]
+    },
+    "Stage 7.lvlx": {
+        "events": [
+            {
+	        "tr-id": "GreenTrampoline",
+                "msg": "Green trampolines, which makes player jump very high, are uncarriable due to it's written by LunaScript's Autocode."
+            }
+        ]
+    },
+    "Stage 8.lvlx": {
+        "events": [
+            {
+	        "tr-id": "HammerBroPlacing",
+                "msg": "When placing the hammer bro on the ground, it's recommended to set \"Don't Move\" to on."
+            }
+        ]
+    },
+    "Stage 10.lvlx": {
+        "events": [
+            {
+	        "tr-id": "Ending2",
+                "msg": "- End of Chapter 1 -"
+            }
+        ],
+	"npc": [
+            {
+                "tr-id": "Ending1",
+                "talk": "Peach: Thank you for rescue me! Your first quest is over and the world is now returned to peace. We are working on chapter 2 for your next adventure, depending by the version number of TheXTech and Nostalgic Paradise."
+            }
+        ]
+    },
+    "Example.wldx": {
+	"levels": [
+	    {
+	        "tr-id": "GameStart",
+	        "tit": "Start"
+	    },
+	    {
+	        "tr-id": "Stage1",
+	        "tit": "Stage 1"
+	    },
+	    {
+	        "tr-id": "Stage2",
+	        "tit": "Stage 2"
+	    },
+	    {
+	        "tr-id": "Stage3",
+	        "tit": "Stage 3"
+	    },
+	    {
+	        "tr-id": "Stage4",
+	        "tit": "Stage 4"
+	    },
+	    {
+	        "tr-id": "Stage5",
+	        "tit": "Stage 5"
+	    },
+	    {
+	        "tr-id": "Stage6",
+	        "tit": "Stage 6"
+	    },
+	    {
+	        "tr-id": "Stage7",
+	        "tit": "Stage 7"
+	    },
+	    {
+	        "tr-id": "Stage8",
+	        "tit": "Stage 8"
+	    },
+	    {
+	        "tr-id": "Stage9",
+	        "tit": "Stage 9"
+	    },
+	    {
+	        "tr-id": "Stage10",
+	        "tit": "Stage 10"
+	    }
+	],
+        "title": "Example Episode"
+    }
+}

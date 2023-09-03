@@ -397,7 +397,7 @@ ID:40;X:-139520;Y:-140096;W:32;H:32;
 ID:40;X:-139488;Y:-140096;W:32;H:32;
 ID:40;X:-139456;Y:-140096;W:32;H:32;
 ID:437;X:-139808;Y:-140224;W:160;H:160;
-ID:281;X:-196864;Y:-200224;W:32;H:32;LR:"E-Dialogue";EH:"Tunshihua";
+ID:281;X:-196864;Y:-200224;W:32;H:32;EH:"Tunshihua";
 ID:247;X:-196768;Y:-200096;W:32;H:32;
 ID:247;X:-196736;Y:-200096;W:32;H:32;
 ID:247;X:-196704;Y:-200096;W:32;H:32;
@@ -4768,7 +4768,6 @@ ID:92;X:-158880;Y:-160000;W:128;H:128;
 ID:92;X:-160000;Y:-160736;W:128;H:128;
 ID:92;X:-173696;Y:-180736;W:128;H:128;
 ID:92;X:-172800;Y:-180736;W:128;H:128;
-ID:281;X:-196864;Y:-200224;W:32;H:32;LR:"C-Dialogue";EH:"Tunshihua-C";
 ID:109;X:-173856;Y:-180192;W:32;H:32;
 BLOCK_END
 BGO
@@ -7316,16 +7315,11 @@ LR:"Default";
 LR:"Destroyed Blocks";HD:1;
 LR:"Spawned NPCs";
 LR:"Qiao";
-LR:"C-Dialogue";HD:1;
-LR:"E-Dialogue";
 LAYERS_END
 EVENTS_CLASSIC
 ET:"Level - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - Start";AS:0;AX:0;AY:0;
 ET:"P Switch - End";AS:0;AX:0;AY:0;
-ET:"Tunshihua";MG:"The green muncher will hurt you when touched\, and the black muncher only hurts you when standing on the top.";AS:0;AX:0;AY:0;
-ET:"Tunshihua-C";MG:"碰到绿色吞食花的任何位置都会受伤，但黑色吞食花只有碰到其顶部才会受伤。";AS:0;AX:0;AY:0;
+ET:"Tunshihua";MG:"PiranhaPlant";AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
-ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
-ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

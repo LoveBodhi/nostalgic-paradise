@@ -11408,7 +11408,7 @@ ID:260;X:-137336;Y:-140216;D:1;S1:4;
 ID:260;X:-137336;Y:-140232;D:1;S1:5;
 ID:42;X:-136576;Y:-140224;D:-1;
 ID:189;X:-136736;Y:-140160;D:-1;
-ID:198;X:-59392;Y:-60192;D:-1;MG:"Peach\: Thank you for rescue me! Your first quest is over and the world is now returned to peace. We are working on chapter 2 for your next adventure\, depending by the version number of TheXTech and Nostalgic Paradise.";FD:1;LR:"E-Dialogue";ET:"Game End";
+ID:198;X:-59392;Y:-60192;D:-1;MG:"Ending1";FD:1;ET:"Game End";
 ID:51;X:-97040;Y:-100256;D:-1;
 ID:8;X:-96944;Y:-100240;D:-1;
 ID:77;X:-98432;Y:-100224;D:-1;
@@ -11558,7 +11558,6 @@ ID:136;X:-116832;Y:-120224;D:-1;
 ID:136;X:-116704;Y:-120224;D:-1;
 ID:17;X:-116576;Y:-120252;D:-1;
 ID:136;X:-118080;Y:-120256;D:-1;
-ID:198;X:-59392;Y:-60192;D:-1;MG:"桃花公主\: 谢谢您救了我！您的任务已经告一段落，世界也重返和平。我们会跟随TheXTech和复古乐园的版本为您准备第2章的冒险。";FD:1;LR:"C-Dialogue";ET:"Game End-C";
 ID:260;X:-76792;Y:-80440;D:-1;
 ID:260;X:-76792;Y:-80424;D:-1;S1:1;
 ID:260;X:-76792;Y:-80408;D:-1;S1:2;
@@ -12196,8 +12195,6 @@ LR:"Destroyed Blocks";HD:1;
 LR:"Spawned NPCs";
 LR:"Qianbi";
 LR:"Qiao";
-LR:"C-Dialogue";HD:1;
-LR:"E-Dialogue";
 LAYERS_END
 EVENTS_CLASSIC
 ET:"Level - Start";AS:0;AX:0;AY:0;
@@ -12207,9 +12204,6 @@ ET:"Qianbi 1";TE:"Qianbi 2";TD:7;AU:1;ML:"Qianbi";MX:0;MY:-2.09;AS:0;AX:0;AY:0;
 ET:"Qianbi 2";TE:"Qianbi 3";TD:13;ML:"Qianbi";MX:0;MY:0;AS:0;AX:0;AY:0;
 ET:"Qianbi 3";TE:"Qianbi 4";TD:7;ML:"Qianbi";MX:0;MY:2.09;AS:0;AX:0;AY:0;
 ET:"Qianbi 4";TE:"Qianbi 1";TD:13;ML:"Qianbi";MX:0;MY:0;AS:0;AX:0;AY:0;
-ET:"Game End";MG:"- End of Chapter 1 -";EG:1;AS:0;AX:0;AY:0;
-ET:"Game End-C";MG:"- 第1章完结 -";EG:1;AS:0;AX:0;AY:0;
+ET:"Game End";MG:"Ending2";EG:1;AS:0;AX:0;AY:0;
 ET:"Qiaodun Pohuai";LH:["Qiao"];AS:0;AX:0;AY:0;
-ET:"E-LanguageText";LH:["C-Dialogue"];LS:["E-Dialogue"];DS:1;AS:0;AX:0;AY:0;
-ET:"C-LanguageText";LH:["E-Dialogue"];LS:["C-Dialogue"];DS:1;AS:0;AX:0;AY:0;
 EVENTS_CLASSIC_END

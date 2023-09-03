@@ -1,4 +1,141 @@
 {
-    " episode_title": "示范地图",
-    " episode_world": "Example.wldx"
+    " episode_title": "最初的意境 示范地图",
+    " episode_world": "Example.wldx",
+    "Stage 1.lvlx": {
+	"events": [
+            {
+		"tr-id": "Intro",
+                "msg": "欢迎来到最初的意境！最初的意境是一个以16位超级马力欧兄弟1为主题的TheXTech组件包。"
+            },
+	    {
+		"tr-id": "GroundPlant",
+                "msg": "这是大地吞食花，它是静止的，应放置在水管以外的区域。"
+            },
+	    {
+		"tr-id": "SecretLevel",
+                "msg": "每个大关都存在一个隐藏场景，其终点为一颗星星，您能找到它吗？"
+            },
+	    {
+		"tr-id": "Checkpoint",
+                "msg": "这是中间点，当您触碰中间点之后死亡时，您将会从中间点开始。因为TheXTech支持无限中间点，所以在每个阶段中，各个子区域的交叉点都存在一个中间点。"
+            },
+	    {
+		"tr-id": "BonePlant",
+                "msg": "枯骨吞食花不受火球的影响。"
+            }
+        ]
+    },
+    "Stage 3.lvlx": {
+        "events": [
+            {
+	        "tr-id": "POWBlock",
+                "msg": "由于当前的TheXTech版本限制，无敌星已被替换为POW砖块。"
+            }
+        ]
+    },
+    "Stage 4.lvlx": {
+        "events": [
+            {
+	        "tr-id": "FrozenBlock",
+                "msg": "被冰冻的物品可通过火球解冻。"
+            },
+	    {
+	        "tr-id": "ScaleLift",
+                "msg": "当前TheXTech版本的平衡梯通过\nLunaScript的代码及大量图层实现。"
+            },
+	    {
+	        "tr-id": "Maze",
+                "msg": "这是一个城堡迷宫。您能找到正确的路线吗？"
+            }
+        ]
+    },
+    "Stage 6.lvlx": {
+        "events": [
+            {
+	        "tr-id": "PiranhaPlant",
+                "msg": "碰到绿色吞食花的任何位置都会受伤，但黑色吞食花只有碰到其顶部才会受伤。"
+            }
+        ]
+    },
+    "Stage 7.lvlx": {
+        "events": [
+            {
+	        "tr-id": "GreenTrampoline",
+                "msg": "由于绿色弹簧，即让玩家能够弹跳得更高的弹簧，采用\nLunaScript Autocode编写，因此无法搬运。"
+            }
+        ]
+    },
+    "Stage 8.lvlx": {
+        "events": [
+            {
+	        "tr-id": "HammerBroPlacing",
+                "msg": "若要将锤子兄弟放置在地面上，推荐设置为“Don't Move”（不移动）。"
+            }
+        ]
+    },
+    "Stage 10.lvlx": {
+        "events": [
+            {
+	        "tr-id": "Ending2",
+                "msg": "- 第1章完结 -"
+            }
+        ],
+	"npc": [
+            {
+                "tr-id": "Ending1",
+                "talk": "碧姬公主: 谢谢您救了我！您的任务已经告一段落，\n我们的世界也将重返和平。我们会跟随TheXTech\n和最初的意境版本为您准备第2章的冒险。"
+            }
+        ]
+    },
+    "Example.wldx": {
+	"levels": [
+	    {
+	        "tr-id": "GameStart",
+	        "tit": "起点"
+	    },
+	    {
+	    	"f": "Stage 1.lvlx",
+	        "tr-id": "Stage1",
+	        "tit": "第1关"
+	    },
+	    {
+	    	"f": "Stage 2.lvlx",
+	        "tr-id": "Stage2",
+	        "tit": "第2关"
+	    },
+	    {
+	        "tr-id": "Stage3",
+	        "tit": "第3关"
+	    },
+	    {
+	        "tr-id": "Stage4",
+	        "tit": "第4关"
+	    },
+	    {
+	        "tr-id": "Stage5",
+	        "tit": "第5关"
+	    },
+	    {
+	        "tr-id": "Stage6",
+	        "tit": "第6关"
+	    },
+	    {
+	        "tr-id": "Stage7",
+	        "tit": "第7关"
+	    },
+	    {
+	        "tr-id": "Stage8",
+	        "tit": "第8关"
+	    },
+	    {
+	        "tr-id": "Stage9",
+	        "tit": "第9关"
+	    },
+	    {
+	        "tr-id": "Stage10",
+	        "tit": "第10关"
+	    }
+	],
+        "title": "最初的意境 示范地图"
+    }
 }

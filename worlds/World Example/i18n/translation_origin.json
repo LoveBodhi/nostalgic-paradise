@@ -1,4 +1,195 @@
 {
+    "use-tr-id": true,
     " episode_title": "Example Episode",
-    " episode_world": "Example.wldx"
+    " episode_world": "Example.wldx",
+    "Stage 1.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "Intro"
+            },
+	    {
+	        "i": 0,
+                "msg": "GroundPlant"
+            },
+	    {
+	        "i": 0,
+                "msg": "SecretLevel"
+            },
+	    {
+	        "i": 0,
+                "msg": "Checkpoint"
+            },
+	    {
+	        "i": 0,
+                "msg": "BonePlant"
+            }
+        ]
+    },
+    "Stage 3.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "POWBlock"
+            }
+        ]
+    },
+    "Stage 4.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "FrozenBlock"
+            },
+	    {
+	        "i": 0,
+                "msg": "ScaleLift"
+            },
+	    {
+	        "i": 0,
+                "msg": "Maze"
+            }
+        ]
+    },
+    "Stage 6.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "PiranhaPlant"
+            }
+        ]
+    },
+    "Stage 7.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "GreenTrampoline"
+            }
+        ]
+    },
+    "Stage 8.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "HammerBroPlacing"
+            }
+        ]
+    },
+    "Stage 10.lvlx": {
+        "dialogues": [
+            {
+		"messages": [
+		    "event-0-msg"
+                ]
+            },
+	    {
+		"messages": [
+		    "npc-0-talk"
+                ]
+            }
+        ],
+	"events": [
+            {
+	        "i": 0,
+                "msg": "Ending2"
+            }
+        ],
+	"npc": [
+	    {
+                "i": 0,
+                "t": 198,
+                "talk": "Ending1"
+            }
+	]
+    },
+    "Example.wldx": {
+	"levels": [
+	    {
+		"i": 0,
+	        "tit": "GameStart"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage1"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage2"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage3"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage4"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage5"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage6"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage7"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage8"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage9"
+	    },
+	    {
+		"i": 0,
+	        "tit": "Stage10"
+	    }
+	],
+        "title": "Example Episode"
+    }
 }
