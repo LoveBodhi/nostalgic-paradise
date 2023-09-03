@@ -3395,15 +3395,15 @@ MUSICBOXES
 ID:1;X:1024;Y:544;
 MUSICBOXES_END
 LEVELS
-ID:26;X:1024;Y:544;LT:"Start";SP:1;
-ID:2;X:1184;Y:544;LT:"Stage 1";LF:"Stage 1.lvlx";ER:8;
-ID:2;X:1536;Y:448;LT:"Stage 2";LF:"Stage 2.lvlx";ER:8;
-ID:2;X:1792;Y:608;LT:"Stage 3";LF:"Stage 3.lvlx";ER:8;
-ID:2;X:2368;Y:608;LT:"Stage 4";LF:"Stage 4.lvlx";ER:8;
-ID:2;X:2656;Y:1120;LT:"Stage 5";LF:"Stage 5.lvlx";ER:8;
-ID:2;X:3072;Y:768;LT:"Stage 6";LF:"Stage 6.lvlx";ET:8;
-ID:2;X:3648;Y:736;LT:"Stage 7";LF:"Stage 7.lvlx";EB:8;
-ID:2;X:3904;Y:1216;LT:"Stage 8";LF:"Stage 8.lvlx";ER:8;
-ID:2;X:4288;Y:1632;LT:"Stage 9";LF:"Stage 9.lvlx";ER:8;
-ID:2;X:5056;Y:992;LT:"Stage 10";LF:"Stage 10.lvlx";
+ID:26;X:1024;Y:544;LT:"GameStart";SP:1;
+ID:2;X:1184;Y:544;LT:"Stage1";LF:"Stage 1.lvlx";ER:8;
+ID:2;X:1536;Y:448;LT:"Stage2";LF:"Stage 2.lvlx";ER:8;
+ID:2;X:1792;Y:608;LT:"Stage3";LF:"Stage 3.lvlx";ER:8;
+ID:2;X:2368;Y:608;LT:"Stage4";LF:"Stage 4.lvlx";ER:8;
+ID:2;X:2656;Y:1120;LT:"Stage5";LF:"Stage 5.lvlx";ER:8;
+ID:2;X:3072;Y:768;LT:"Stage6";LF:"Stage 6.lvlx";ET:8;
+ID:2;X:3648;Y:736;LT:"Stage7";LF:"Stage 7.lvlx";EB:8;
+ID:2;X:3904;Y:1216;LT:"Stage8";LF:"Stage 8.lvlx";ER:8;
+ID:2;X:4288;Y:1632;LT:"Stage9";LF:"Stage 9.lvlx";ER:8;
+ID:2;X:5056;Y:992;LT:"Stage10";LF:"Stage 10.lvlx";
 LEVELS_END
