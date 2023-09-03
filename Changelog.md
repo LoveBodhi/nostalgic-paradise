@@ -1,4 +1,4 @@
-# Version 0.2.1-Beta 2 (WIP)
+# Version 0.2.1-Beta 2 (2023-09-04)
 
 Asset Changes:
 
@@ -30,6 +30,7 @@ Asset Changes:
 - Restored Coral Tile to original design.
 - Replaced Skull Switch (For triggering events) with Grey Star Switch.
 - Tweaked Mega Mole.
+- Changed Demo Episode Translation to JSON method.
 
 Demo Episode Changes:
 

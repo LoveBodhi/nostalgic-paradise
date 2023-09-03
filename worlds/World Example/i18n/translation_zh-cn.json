@@ -29,7 +29,7 @@
         "events": [
             {
 	        "tr-id": "POWBlock",
-                "msg": "由于当前的TheXTech版本限制，无敌星已被替换为POW砖块。"
+                "msg": "由于当前的TheXTech版本限制，无敌星已被替换为\nPOW砖块。"
             }
         ]
     },
