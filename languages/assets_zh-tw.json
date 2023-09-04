@@ -468,7 +468,7 @@
     },
     "languageName": "繁體中文",
     "objects": {
-        "wordFails": "失敗次數",
+        "wordFails": "通關失敗",
         "wordStarAccusativeDualOrCounter": "顆",
         "wordStarAccusativePlural": "力量之星",
         "wordStarAccusativeSingular": "力量之星"
