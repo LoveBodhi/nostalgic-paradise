@@ -550,7 +550,7 @@
             "gameNoBattleLevels": "<對戰關卡列表爲空>",
             "gameNoEpisodesToPlay": "<地圖列表爲空>",
             "gameSlotContinue": "存檔 {0} ... {1}%",
-            "gameSlotNew": "存檔 {0} ... 新遊戲",
+            "gameSlotNew": "存檔 {0} ... 新的冒險",
             "gameSourceSlot": "選擇源存檔",
             "gameTargetSlot": "選擇目標存檔",
             "phraseScore": "得分：{0}",
