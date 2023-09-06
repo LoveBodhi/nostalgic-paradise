@@ -1,3 +1,9 @@
+# Version 0.2.1 (WIP)
+
+Asset Changes:
+
+- Changed Toad's boomerang to Lean's version, recolour by Yingchun Soul.
+
 # Version 0.2.1-Beta 2 (2023-09-04)
 
 Asset Changes:
@@ -35,6 +41,7 @@ Asset Changes:
 Demo Episode Changes:
 
 - Overhauled theme of Stage 1-S.
+- Added bonus rooms at partial levels.
 
 # Version 0.2.1-Beta - Hotfix 1 (2023-04-07)
 
