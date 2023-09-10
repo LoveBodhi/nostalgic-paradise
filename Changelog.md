@@ -5,6 +5,8 @@ Asset Changes:
 - Added Big Blooper.
 - Added Glass Block.
 - Changed Toad's boomerang to Lean's version, recolour by Yingchun Soul.
+- Updated "Bomb" effect.
+- Replaced Bit with Wubba.
 
 # Version 0.2.1-Beta 2 (2023-09-04)
 
