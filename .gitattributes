@@ -5,7 +5,8 @@
 *.lvl text eol=crlf
 *.wld text eol=crlf
 *.md text eol=crlf
-*.ini text eol=lf
+*.ini text eol=crlf
+gameinfo.ini text eol=lf
 *.lua text eol=crlf
 *.txt text eol=crlf
 npc-*.txt text eol=crlf

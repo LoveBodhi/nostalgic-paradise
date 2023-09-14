@@ -6,6 +6,7 @@ Asset Changes:
 - Added Jewel-Block.
 - Changed Toad's boomerang to Lean's version, recolour by Yingchun Soul.
 - Updated "Bomb" effect.
+- Updated Sword Beam effect (For character No. 5).
 - Replaced Bit with Wubba.
 
 # Version 0.2.1-Beta 2 (2023-09-04)
