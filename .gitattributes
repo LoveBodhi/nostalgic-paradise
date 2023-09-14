@@ -7,6 +7,7 @@
 *.md text eol=crlf
 *.ini text eol=crlf
 gameinfo.ini text eol=lf
+thextech.ini text eol=lf
 *.lua text eol=crlf
 *.txt text eol=crlf
 npc-*.txt text eol=crlf
