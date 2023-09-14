@@ -7,7 +7,9 @@ Asset Changes:
 - Changed Toad's boomerang to Lean's version, recolour by Yingchun Soul.
 - Updated "Bomb" effect.
 - Updated Sword Beam effect (For character No. 5).
+- Updated Bob-Omb Buddy.
 - Replaced Bit with Wubba.
+- Replaced Link NPC with Talking Flower.
 
 # Version 0.2.1-Beta 2 (2023-09-04)
 
