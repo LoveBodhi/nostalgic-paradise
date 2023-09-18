@@ -8,6 +8,7 @@ Asset Changes:
 - Updated "Bomb" effect.
 - Updated Sword Beam effect (For character No. 5).
 - Updated Bob-Omb Buddy.
+- Updated Toothy.
 - Replaced Bit with Wubba.
 - Replaced Link NPC with Talking Flower.
 
