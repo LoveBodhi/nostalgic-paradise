@@ -1,0 +1,184 @@
+---- JSON Tr-Id翻译模板；如有错误请指正
+---- JSON Tr-Id Translation Template; Please report if there're errors
+
+---- translation_metadata.json
+{
+    "use-tr-id": true,
+    " episode_title": "地图名称 Episode/World Title",
+    " episode_world": "地图文件名 Episode/World Filename",
+    "关卡文件名 Level Filename": {
+        "dialogues": [
+	    {
+                "messages": [
+                    "npc-0-talk"
+                ],
+		"note": ""
+            },
+            {
+		"messages": [
+		    "event-0-msg"
+                ],
+		"note": ""
+            }
+        ],
+	"npc": [
+            {
+                "t": 1,
+                "talk": "字符串键1 StringKey1",
+		"talk-n": "注释 Notes"
+            },
+	    {
+                "t": 2,
+                "talk": "字符串键2 StringKey2"
+            },
+	    {
+                "t": 3,
+                "talk": "..."
+            },
+	    {
+                "t": 999,
+                "talk": "字符串键n StringKeyN"
+            }
+        ],
+	"events": [
+            {
+                "msg": "字符串键1 StringKey1",
+		"msg-n": "注释 Notes"
+            },
+	    {
+                "msg": "字符串键2 StringKey2"
+            },
+	    {
+                "msg": "..."
+            },
+	    {
+                "msg": "字符串键n StringKeyN"
+            }
+        ],
+	"title": "关卡标题 Level Title"
+    },
+    "地图文件名 Episode/World Filename": {
+	"levels": [
+	    {
+	        "tit": "字符串键1 StringKey1",
+		"tit-n": "注释 Notes"
+	    },
+	    {
+	        "tit": "字符串键2 StringKey2"
+	    },
+	    {
+	        "tit": "..."
+	    },
+	    {
+	        "tit": "字符串键n StringKeyN"
+	    }
+	],
+        "title": "与\" episode_title\"字段保持一致 Same as \" episode_title\""
+     },
+     "LunaScript代码 LunaScript Code": {
+	"lines": [
+	    {
+                "src": "文字1 Text1",
+		"src-n": "注释 Notes"
+            },
+	    {
+                "src": "文字2 Text2"
+            },
+	    {
+                "src": "..."
+            },
+	    {
+                "src": "文字n TextN"
+            }
+	]
+     }
+}
+
+---- translation_langcode.json
+{
+    " episode_title": "地图名称 Episode/World Title",
+    " episode_world": "地图文件名 Episode/World Filename",
+    "关卡文件名 Level Filename": {
+        "npc": [
+            {
+                "tr-id": "字符串键1 StringKey1",
+                "talk": "",
+		"talk-n": "注释 Notes"
+            },
+	    {
+                "tr-id": "字符串键2 StringKey2",
+                "talk": ""
+            },
+	    {
+                "tr-id": "...",
+                "talk": ""
+            },
+	    {
+                "tr-id": "字符串键n StringKeyN",
+                "talk": ""
+            }
+        ],
+        "events": [
+            {
+	        "tr-id": "字符串键1 StringKey1",
+                "msg": "",
+		"msg-n": "注释 Notes"
+            },
+	    {
+	        "tr-id": "字符串键2 StringKey2",
+                "msg": ""
+            },
+	    {
+	        "tr-id": "...",
+                "msg": ""
+            },
+	    {
+	        "tr-id": "字符串键n StringKeyN",
+                "msg": ""
+            }
+        ],
+	"title": "关卡标题 Level Title"
+    },
+    "地图文件名 Episode/World Filename": {
+	"levels": [
+	    {
+	        "tr-id": "字符串键1 StringKey1",
+		"tit": ""
+	    },
+	    {
+	        "tr-id": "字符串键2 StringKey2",
+		"tit": ""
+	    },
+	    {
+	        "tr-id": "...",
+		"tit": ""
+	    },
+	    {
+	        "tr-id": "字符串键n StringKeyN",
+		"tit": ""
+	    }
+	],
+        "title": "与\" episode_title\"字段保持一致 Same as \" episode_title\""
+     },
+     "LunaScript代码 LunaScript Code": {
+	"lines": [
+	    {
+                "tr-id": "字符串键1 StringKey1",
+		"tr": "",
+		"tr-n": "注释 Notes"
+            },
+	    {
+                "tr-id": "字符串键2 StringKey2",
+		"tr": ""
+            },
+	    {
+                "tr-id": "...",
+		"tr": ""
+            },
+	    {
+                "tr-id": "字符串键n StringKeyN",
+		"tr": ""
+            }
+	]
+     }
+}

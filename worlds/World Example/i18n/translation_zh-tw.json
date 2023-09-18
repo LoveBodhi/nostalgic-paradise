@@ -94,12 +94,10 @@
 	        "tit": "起點"
 	    },
 	    {
-	    	"f": "Stage 1.lvlx",
 	        "tr-id": "Stage1",
 	        "tit": "第1關"
 	    },
 	    {
-	    	"f": "Stage 2.lvlx",
 	        "tr-id": "Stage2",
 	        "tit": "第2關"
 	    },
