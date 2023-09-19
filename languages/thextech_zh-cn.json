@@ -429,7 +429,7 @@
                 "enterCheats": "输入作弊指令",
                 "fullscreen": "全屏",
                 "legacyPause": "旧版暂停菜单",
-                "recordGif": "GIF 动画录制",
+                "recordGif": "GIF动画录制",
                 "screenshot": "截图",
                 "toggleHUD": "状态栏切换"
             },
@@ -541,8 +541,8 @@
         "editor": {
             "errorMissingResources": "无法进入初见工作室：文件{0}未找到。",
             "errorResolution": "无法进入初见工作室：当前设置的分辨率不支持。",
-            "newWorld": "<新地图>",
-            "promptNewWorldName": "新地图名称"
+            "newWorld": "<新剧本>",
+            "promptNewWorldName": "新剧本名称"
         },
         "game": {
             "gameBattleRandom": "随机关卡",
@@ -550,7 +550,7 @@
             "gameEraseSave": "删除存档",
             "gameEraseSlot": "选择要删除的存档",
             "gameNoBattleLevels": "<对战关卡列表为空>",
-            "gameNoEpisodesToPlay": "<地图列表为空>",
+            "gameNoEpisodesToPlay": "<剧本列表为空>",
             "gameSlotContinue": "存档 {0} ... {1}%",
             "gameSlotNew": "存档 {0} ... 新的冒险",
             "gameSourceSlot": "选择源存档",

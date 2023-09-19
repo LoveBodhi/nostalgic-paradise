@@ -11,6 +11,7 @@ Asset Changes:
 - Updated Toothy.
 - Replaced Bit with Wubba.
 - Replaced Link NPC with Talking Flower.
+- Renamed "Episode" to "Scenario".
 
 # Version 0.2.1-Beta 2 (2023-09-04)
 

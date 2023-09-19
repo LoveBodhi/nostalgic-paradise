@@ -1,7 +1,7 @@
 {
     "editor": {
         "block": {
-            "canBreak": "Can Break",
+            "canBreak": "Breakable",
             "canBreakTooltip": "Legacy: breaks when hit",
             "inside": "Inside:",
             "invis": "Invis",
@@ -316,9 +316,9 @@
         "wordWidth": "Width",
         "world": {
             "allowChars": "Allow Chars",
-            "hubWorld": "Hub World",
+            "hubWorld": "Hub Style",
             "introLevel": "Intro Level",
-            "name": "World Name",
+            "name": "Scenario Name",
             "phraseCreditIndex": "World Credit Line {0}:",
             "retryOnFail": "Retry On Fail",
             "totalStars": "Total P.Stars: "
@@ -337,7 +337,7 @@
             "phraseStartToForceRes": "Press Start to Force Resume",
             "phraseStartToResume": "Press Start to Resume",
             "phraseTestControls": "Test Controls",
-            "phraseWaitingForInput": "Waiting for input device...",
+            "phraseWaitingForInput": "Waiting for player joining...",
             "reconnectTitle": "Reconnect",
             "splitPressSelect_1": "Press Select for",
             "splitPressSelect_2": "Controls Options",
@@ -541,16 +541,16 @@
         "editor": {
             "errorMissingResources": "Can't enter Nostalgic Studio: The required file, {0}, is missing.",
             "errorResolution": "Can't enter Nostalgic Studio: Unsupported by the current resolution.",
-            "newWorld": "<New Episode>",
-            "promptNewWorldName": "New episode name"
+            "newWorld": "<New Scenario>",
+            "promptNewWorldName": "New scenario name"
         },
         "game": {
             "gameBattleRandom": "Random Level",
             "gameCopySave": "Copy save",
             "gameEraseSave": "Erase save",
             "gameEraseSlot": "Select the file to erase",
-            "gameNoBattleLevels": "<Empty Battle Level List>",
-            "gameNoEpisodesToPlay": "<Empty Episode List>",
+            "gameNoBattleLevels": "<Battle Levels are empty>",
+            "gameNoEpisodesToPlay": "<Scenarios are empty>",
             "gameSlotContinue": "File {0} ... {1}%",
             "gameSlotNew": "File {0} ... New Adventure",
             "gameSourceSlot": "Select the source file",

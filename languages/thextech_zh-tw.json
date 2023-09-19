@@ -348,6 +348,8 @@
             "phrasePlayerDisconnected": "玩家{0}未連接任何設備"
         },
         "error": {
+	    "errorInvalidEnterWarp": "========= 發生錯誤! =========\n\n作爲關卡起點的傳送點{1}號不存在，因此無法啓動關卡。\n傳送點總數：{2}\n\n檔案：{0}",
+            "errorNoStartPoint": "========= 發生錯誤! =========\n\n未放置玩家起點或傳送點入口，因此無法啓動關卡。\n\n檔案：{0}",
             "openFileFailed": "錯誤：無法打開檔案\"{0}\"：檔案不存在或已損壞。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能進入此處。"
         },
@@ -427,7 +429,7 @@
                 "enterCheats": "輸入作弊指令",
                 "fullscreen": "全屏",
                 "legacyPause": "舊版暫停菜單",
-                "recordGif": "GIF 動畫錄製",
+                "recordGif": "GIF動畫錄製",
                 "screenshot": "截圖",
                 "toggleHUD": "狀態欄切換"
             },
@@ -539,8 +541,8 @@
         "editor": {
             "errorMissingResources": "無法進入初見工作室：檔案{0}未找到。",
             "errorResolution": "無法進入初見工作室：當前設置的分辨率不支持。",
-            "newWorld": "<新地圖>",
-            "promptNewWorldName": "新地圖名稱"
+            "newWorld": "<新劇本>",
+            "promptNewWorldName": "新劇本名稱"
         },
         "game": {
             "gameBattleRandom": "隨機關卡",
@@ -548,7 +550,7 @@
             "gameEraseSave": "刪除存檔",
             "gameEraseSlot": "選擇要刪除的存檔",
             "gameNoBattleLevels": "<對戰關卡列表爲空>",
-            "gameNoEpisodesToPlay": "<地圖列表爲空>",
+            "gameNoEpisodesToPlay": "<劇本列表爲空>",
             "gameSlotContinue": "存檔 {0} ... {1}%",
             "gameSlotNew": "存檔 {0} ... 新的冒險",
             "gameSourceSlot": "選擇源存檔",
