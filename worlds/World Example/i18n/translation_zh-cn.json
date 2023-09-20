@@ -1,5 +1,5 @@
 {
-    " episode_title": "最初的意境 范本",
+    " episode_title": "最初的意境 剧本示范",
     " episode_world": "Example.wldx",
     "Stage 1.lvlx": {
 	"events": [
@@ -134,6 +134,6 @@
 	        "tit": "第10关"
 	    }
 	],
-        "title": "最初的意境 示范地图"
+        "title": "最初的意境 剧本示范"
     }
 }
