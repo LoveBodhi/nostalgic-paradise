@@ -296,7 +296,7 @@
             "twoWay": "双向传送"
         },
         "water": {
-            "title": "流体"
+            "title": "水流"
         },
         "wordCoins": "金币",
         "wordEnabled": "已启用",
@@ -307,7 +307,7 @@
         },
         "wordHeight": "高",
         "wordInstant": "立即",
-        "wordMode": "流体类型",
+        "wordMode": "水流类型",
         "wordNPC": {
             "genitive": "NPC",
             "nominative": "NPC"
@@ -541,8 +541,8 @@
         "editor": {
             "errorMissingResources": "无法进入初见工作室：文件{0}未找到。",
             "errorResolution": "无法进入初见工作室：当前设置的分辨率不支持。",
-            "newWorld": "<新剧本>",
-            "promptNewWorldName": "新剧本名称"
+            "newWorld": "<创建新剧本>",
+            "promptNewWorldName": "给你的新剧本起个名字吧"
         },
         "game": {
             "gameBattleRandom": "随机关卡",
