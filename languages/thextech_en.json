@@ -316,7 +316,7 @@
         "wordWidth": "Width",
         "world": {
             "allowChars": "Allow Chars",
-            "hubWorld": "Hub Style",
+            "hubWorld": "Plaza Mode",
             "introLevel": "Intro Level",
             "name": "Scenario Name",
             "phraseCreditIndex": "World Credit Line {0}:",

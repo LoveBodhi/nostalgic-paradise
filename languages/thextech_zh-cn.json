@@ -316,9 +316,9 @@
         "wordWidth": "宽",
         "world": {
             "allowChars": "可用角色",
-            "hubWorld": "禁用大地图",
+            "hubWorld": "广场模式",
             "introLevel": "开场关卡",
-            "name": "地图名称",
+            "name": "剧本名称",
             "phraseCreditIndex": "地图制作团队 第{0}行：",
             "retryOnFail": "失败之后重新开始",
             "totalStars": "力量之星总数："
