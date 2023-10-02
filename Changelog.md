@@ -15,6 +15,10 @@ Asset Changes:
 - Replaced some sound effects and added Flame Thrower sound effect.
 - Renamed "Episode" to "Scenario" at all of the translatable fields.
 
+Demo Episode Changes:
+
+- Completed bonus rooms.
+
 # Version 0.2.1-Beta 2 (2023-09-04)
 
 Asset Changes:
