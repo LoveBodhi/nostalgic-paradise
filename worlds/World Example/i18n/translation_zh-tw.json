@@ -1,5 +1,5 @@
 {
-    " episode_title": "最初的意境 範本",
+    " episode_title": "最初的意境 劇本示範",
     " episode_world": "Example.wldx",
     "Stage 1.lvlx": {
 	"events": [
@@ -37,7 +37,7 @@
         "events": [
             {
 	        "tr-id": "FrozenBlock",
-                "msg": "被冰凍的物品可通過火球解凍。"
+                "msg": "被冰凍的物品可被火球解凍。"
             },
 	    {
 	        "tr-id": "ScaleLift",
@@ -61,7 +61,7 @@
         "events": [
             {
 	        "tr-id": "GreenTrampoline",
-                "msg": "由於綠色彈簧，即讓玩家能夠彈跳得更高的彈簧，採用\nLunaScript Autocode編寫，因此無法搬運。"
+                "msg": "由於綠色彈簧，即讓玩家能夠彈跳得更高的彈簧，採用\nLunaScript Autocode編寫，因此無法\n搬運。"
             }
         ]
     },
@@ -134,6 +134,6 @@
 	        "tit": "第10關"
 	    }
 	],
-        "title": "最初的意境 示範地圖"
+        "title": "最初的意境 劇本示範"
     }
 }

@@ -10,6 +10,7 @@ Asset Changes:
 - Updated Bob-Omb Buddy.
 - Updated Toothy.
 - Updated Bomb Item.
+- Updated Game Loading Screen.
 - Replaced Bit with Wubba.
 - Replaced Link NPC with Talking Flower.
 - Replaced some sound effects and added Flame Thrower sound effect.

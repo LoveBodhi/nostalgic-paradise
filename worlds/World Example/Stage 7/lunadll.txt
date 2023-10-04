@@ -19,6 +19,8 @@ ShowText,0,492,48,3,0,7-4
 ShowText,0,492,48,3,0,7-4
 #6
 ShowText,0,492,48,3,0,7-S
+#7
+ShowText,0,492,48,3,0,7-1
 #1001
 AccelerateLayerY,3,4,0,0,64,0.06
 AccelerateLayerY,4,-4,0,0,64,-0.06

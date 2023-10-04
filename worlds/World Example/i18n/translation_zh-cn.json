@@ -37,7 +37,7 @@
         "events": [
             {
 	        "tr-id": "FrozenBlock",
-                "msg": "被冰冻的物品可通过火球解冻。"
+                "msg": "被冰冻的物品可被火球解冻。"
             },
 	    {
 	        "tr-id": "ScaleLift",
@@ -61,7 +61,7 @@
         "events": [
             {
 	        "tr-id": "GreenTrampoline",
-                "msg": "由于绿色弹簧，即让玩家能够弹跳得更高的弹簧，采用\nLunaScript Autocode编写，因此无法搬运。"
+                "msg": "由于绿色弹簧，即让玩家能够弹跳得更高的弹簧，采用\nLunaScript Autocode编写，因此无法\n搬运。"
             }
         ]
     },
