@@ -15,6 +15,7 @@
 - MurphMario
 - Linkstorm Z
 - TLtimelord
+- NSPBWii
 - P-Tux7
 - Crafink
 - Mudkip
@@ -31,6 +32,8 @@
 - MatiasNTRM
 - gbradley231
 - Askywalker
+- CursedMario
+- AnasWael
 
 ## Music
 
