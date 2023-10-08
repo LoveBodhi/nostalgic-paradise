@@ -11,12 +11,12 @@
             "slick": "打滑"
         },
         "browser": {
-            "askOverwriteFile": "是否覆蓋檔案{0}？",
-            "itemNewFile": "<新建檔案>",
-            "itemNewFolder": "<新建資料夾>",
-            "newFile": "新建檔案",
-            "openFile": "打開檔案",
-            "saveFile": "刪除檔案"
+            "askOverwriteFile": "是否覆蓋文件{0}？",
+            "itemNewFile": "<新文件>",
+            "itemNewFolder": "<新建文件夾>",
+            "newFile": "新建文件",
+            "openFile": "打開文件",
+            "saveFile": "刪除文件"
         },
         "events": {
             "bounds": {
@@ -24,7 +24,7 @@
                 "changeSectionBoundsToCurrent": "改變場景{0}的範圍到當前設置嗎？",
                 "shouldEvent": "要使事件{0}"
             },
-            "controlsForEvent": "強制按下玩家按鍵",
+            "controlsForEventN": "強制按下玩家按鍵：{0}",
             "deletion": {
                 "cancel": "否：不刪除事件",
                 "confirm": "是：刪除事件",
@@ -86,7 +86,7 @@
                 "propBounds": "場景範圍",
                 "propMusic": "音樂"
             },
-            "settingsForEvent": "事件選項"
+            "settingsForEvent": "{0}事件選項"
         },
         "file": {
             "actionClearLevel": "清除關卡",
@@ -100,10 +100,10 @@
             "commandSaveAs": "另存爲...",
             "confirmConfirmAction": "您確定要{0}嗎？",
             "confirmConvertFormatTo": "是否轉換格式到{0}？",
-            "confirmSaveBeforeAction": "{0}前是否保存檔案？",
+            "confirmSaveBeforeAction": "{0}前是否保存文件？",
             "convert": {
-                "_38aUnsupported": "不支持轉換 SMBX-38A 格式的關卡。",
-                "desc": "檔案格式將會轉換，但不會刪除原始檔。",
+                "_38aUnsupported": "不支持轉換SMBX-38A格式的關卡。",
+                "desc": "文件格式將會轉換，但不會刪除源文件。",
                 "featureBlockForceSmashable": "旋轉方塊設置了舊版本的破碎方式。",
                 "featureCustomWorldMusic": "在大地圖中設置了自定義音樂。",
                 "featureEventAutoscroll": "在事件中設置了新版的強制卷軸。",
@@ -125,13 +125,13 @@
             },
             "formatLegacy": "舊版本",
             "formatModern": "新版本",
-            "labelCurrentFile": "當前檔案：",
+            "labelCurrentFile": "當前文件：",
             "labelFormat": "格式：",
-            "optionActionWithoutSave": "否：{0}而不保存檔案",
+            "optionActionWithoutSave": "否：{0}而不保存文件",
             "optionCancelAction": "取消：返回上一級菜單",
             "optionCancelConversion": "取消轉換",
             "optionProceedWithConversion": "確認轉換",
-            "optionYesSaveThenAction": "是：{0}並保存檔案",
+            "optionYesSaveThenAction": "是：{0}並保存文件",
             "sectionLevel": "關卡",
             "sectionWorld": "大地圖"
         },
@@ -220,11 +220,11 @@
             "underwater": "水下"
         },
         "select": {
-            "allSectPropBlankForEvent": "更改所有場景{0}於事件",
+            "allSectPropBlankForEventN": "更改所有場景{0}於{1}事件",
             "pathBlankUnlock": "路線向{0}開啓條件",
-            "sectBlankPropBlankForEvent": "更改場景{0}的{1}於事件",
+            "sectBlankPropBlankForEventN": "更改場景{0}的{1}於{2}事件",
             "sectionBlankPropBlank": "場景{0}{1}",
-            "soundForEvent": "播放聲音",
+            "soundForEventN": "執行{0}事件時播放音效",
             "warpTransitEffect": "過渡效果",
             "worldMusic": "大地圖音樂"
         },
@@ -296,7 +296,7 @@
             "twoWay": "雙向傳送"
         },
         "water": {
-            "title": "流體"
+            "title": "水流"
         },
         "wordCoins": "金幣",
         "wordEnabled": "已啓用",
@@ -307,7 +307,7 @@
         },
         "wordHeight": "高",
         "wordInstant": "立即",
-        "wordMode": "流體類型",
+        "wordMode": "水流類型",
         "wordNPC": {
             "genitive": "NPC",
             "nominative": "NPC"
@@ -316,9 +316,9 @@
         "wordWidth": "寬",
         "world": {
             "allowChars": "可用角色",
-            "hubWorld": "禁用大地圖",
+            "hubWorld": "廣場模式",
             "introLevel": "開場關卡",
-            "name": "地圖名稱",
+            "name": "劇本名稱",
             "phraseCreditIndex": "地圖製作團隊 第{0}行：",
             "retryOnFail": "失敗之後重新開始",
             "totalStars": "力量之星總數："
@@ -348,9 +348,9 @@
             "phrasePlayerDisconnected": "玩家{0}未連接任何設備"
         },
         "error": {
-	    "errorInvalidEnterWarp": "========= 發生錯誤! =========\n\n作爲關卡起點的傳送點{1}號不存在，因此無法啓動關卡。\n傳送點總數：{2}\n\n檔案：{0}",
-            "errorNoStartPoint": "========= 發生錯誤! =========\n\n未放置玩家起點或傳送點入口，因此無法啓動關卡。\n\n檔案：{0}",
-            "openFileFailed": "錯誤：無法打開檔案\"{0}\"：檔案不存在或已損壞。",
+	    "errorInvalidEnterWarp": "========= 發生錯誤! =========\n\n作爲關卡起點的傳送點{1}號不存在，因此無法啓動關卡。\n傳送點總數：{2}\n\n文件：{0}",
+            "errorNoStartPoint": "========= 發生錯誤! =========\n\n未放置玩家起點或傳送點入口，因此無法啓動關卡。\n\n文件：{0}",
+            "openFileFailed": "錯誤：無法打開文件\"{0}\"：文件不存在或已損壞。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能進入此處。"
         },
         "pause": {
@@ -445,7 +445,7 @@
                 "activateProfile": "啓用配置",
                 "cursorControls": "鼠標控制",
                 "deleteProfile": "刪除配置",
-                "editorControls": "編輯器控制",
+                "editorControls": "工作室控制",
                 "hotkeys": "熱鍵",
                 "playerControls": "玩家控制",
                 "renameProfile": "重命名配置"
@@ -539,10 +539,10 @@
             "wordProfiles": "配置"
         },
         "editor": {
-            "errorMissingResources": "無法進入初見工作室：檔案{0}未找到。",
+            "errorMissingResources": "無法進入初見工作室：文件{0}未找到。",
             "errorResolution": "無法進入初見工作室：當前設置的分辨率不支持。",
-            "newWorld": "<新劇本>",
-            "promptNewWorldName": "新劇本名稱"
+            "newWorld": "<創建新劇本>",
+            "promptNewWorldName": "給你的新劇本起個名字吧"
         },
         "game": {
             "gameBattleRandom": "隨機關卡",

@@ -1,4 +1,4 @@
-# Version 0.2.1 (WIP)
+# Version 0.2.1 (2023-10-08)
 
 Asset Changes:
 
