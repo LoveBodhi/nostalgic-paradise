@@ -1,3 +1,10 @@
+# Version 0.2.1 (2023-10-08)
+
+Asset Changes:
+
+- Tweaked Luigi's Sprite.
+- Updated Mario's Sprite.
+
 # Version 0.2.1-RC1 (2023-10-04)
 
 Asset Changes:
