@@ -75,6 +75,7 @@
                 "autostart": "進入關卡時啓動",
                 "controls": "按鍵",
                 "endGame": "遊戲通關",
+		"layerSmoke": "煙霧特效",
                 "sound": "音效"
             },
             "sections": {
