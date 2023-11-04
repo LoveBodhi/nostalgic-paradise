@@ -9,5 +9,5 @@ Doesn't affliate, endorse or anything to any official organizations.
 
 ---
 
-注意：请勿创建需要依赖的项目仅为假设的工单！
+注意：请勿创建需要依赖的项目仅为假设的工单！<br>
 Note: Please don't make issues that they're just hypotheses of dependences!
