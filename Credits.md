@@ -3,7 +3,8 @@
 - Yingchun Soul
 - sonicexe935
 - Sednaiur
-- Rage
+- Redigit
+- Steven
 - Shikaternia
 - SuperSledgeBro
 - Dr. SVH

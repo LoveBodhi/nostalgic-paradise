@@ -1,3 +1,44 @@
+# Version 0.2.3a (2024-01-09)
+
+Asset Changes:
+
+- Updated Menu Select Icons.
+
+# Version 0.2.3 (2024-01-08)
+
+Asset Changes:
+
+- Fixed Logo Size.
+- Updated Splash Screen.
+- Updated Touchscreen Icons.
+- Changed Toad to SMB1 Recoloured Version that came from NSPBWii.
+- Changed Link Colour.
+- Changed Fairy Colour.
+
+# Version 0.2.2 (2024-01-01)
+
+Asset Changes:
+
+- Changed Mouser to SMB1 Recoloured Version that came from MurphMario.
+- Changed Title Screen Music.
+- Changed Grabbable Underwater Cloud to Askywalker's Version.
+- Changed Underground Sizable to Askywalker's Version.
+- Updated Forest Background.
+- Updated Deep Underwater Background.
+- Updated Brown Cave Background.
+- Updated Big Thwomp.
+- Replaced Deep Underwater Ruins with Recoloured Underwater Background.
+- Moved version number to the bottom of Logo.
+- Fixed offset for Ice Mario's left frames of swimming.
+- Fixed offset for Mario Grabbing Items.
+- Fixed sprite for Hammer Luigi's right frame of mount duck.
+- Tweaked some translations and strings.
+- Pokey now hurts player when attempt to jump on.
+
+Demo Episode Changes:
+
+- Tweaked some stages.
+
 # Version 0.2.1 (2023-10-08)
 
 Asset Changes:

@@ -2,3 +2,5 @@ gfxwidth=32
 gfxheight=38
 width=32
 height=32
+jumphurt=1
+playerblocktop=0

@@ -28,7 +28,7 @@
             "deletion": {
                 "cancel": "否：不删除事件",
                 "confirm": "是：删除事件",
-                "deletingEvent": "删除事件{0}"
+                "deletingEvent": "删除{0}事件"
             },
             "desc": {
                 "activate": "NPC在当前画面出现时",
@@ -143,7 +143,7 @@
                 "cancel": "取消：返回上一级菜单",
                 "confirmDelete": "否：*删除全部对象*",
                 "confirmPreserve": "是：移动到默认图层",
-                "header": "删除图层{0}",
+                "header": "删除{0}图层",
                 "preserveLayerContents": "是否保留图层对象？"
             },
             "desc": {
@@ -153,7 +153,7 @@
             "itemNewLayer": "<新图层>",
             "label": "图层：",
             "labelAttached": "跟随：",
-            "labelAttachedLayer": "跟随图层",
+            "labelAttachedLayer": "跟随图层：",
             "labelMoveLayer": "移动图层：",
             "promptLayerName": "图层名称"
         },
@@ -197,7 +197,7 @@
             "inertNice": "友好",
             "props": {
                 "active": "启动",
-                "attachSurface": "跟随",
+                "attachSurface": "位置",
                 "facing": "方向"
             },
             "stuckStop": "静止",
@@ -208,7 +208,7 @@
         "phraseCountMore": "更多{0}",
         "phraseDelayIsMs": "延迟：{0}毫秒",
 	"phraseGenericIndex": "编号：{0}",
-        "phraseRadiusIndex": "半径{0}",
+        "phraseRadiusIndex": "半径：{0}",
         "phraseSectionIndex": "场景{0}",
         "phraseTextOf": "{0}的文字信息",
         "phraseWarpIndex": "传送点{0}号",
@@ -240,6 +240,7 @@
         "tooltip": {
             "BGOs": "装饰",
             "NPCs": "敌人及物品",
+	    "area": "地图范围",
             "blocks": "地形及砖块",
             "erase": "删除",
             "eraseAll": "删除全部",
@@ -338,6 +339,7 @@
             "phraseStartToForceRes": "按开始键强制恢复游戏",
             "phraseStartToResume": "按开始键恢复游戏",
             "phraseTestControls": "测试按键",
+	    "phraseTestProfile": "测试配置",
             "phraseWaitingForInput": "等待玩家加入……",
             "reconnectTitle": "重新连接",
             "splitPressSelect_1": "按选择键",
@@ -349,9 +351,9 @@
             "phrasePlayerDisconnected": "玩家{0}未连接任何设备"
         },
         "error": {
-	    "errorInvalidEnterWarp": "========= 发生错误! =========\n\n作为关卡起点的传送点{1}号不存在，因此无法启动关卡。\n传送点总数：{2}\n\n文件：{0}",
-            "errorNoStartPoint": "========= 发生错误! =========\n\n未放置玩家起点或传送点入口，因此无法启动关卡。\n\n文件：{0}",
-            "openFileFailed": "错误：无法打开文件\"{0}\"：文件不存在或已损坏。",
+	    "errorInvalidEnterWarp": "========= 发生错误! =========\n\n作为关卡起点的传送点{1}号不存在，因此无法进入关卡。\n传送点总数：{2}\n\n文件：{0}",
+            "errorNoStartPoint": "========= 发生错误! =========\n\n未放置玩家起点或传送点入口，因此无法进入关卡。\n\n文件：{0}",
+            "openFileFailed": "错误：无法打开文件“{0}”：文件不存在或已损坏。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能进入这里。"
         },
         "pause": {
@@ -413,15 +415,15 @@
                 "up": "鼠标向上移动"
             },
             "editor": {
-                "fastScroll": "快速滚动",
+                "fastScroll": "快速移动",
                 "modeErase": "橡皮擦",
                 "modeSelect": "选择模式",
                 "nextSection": "下一场景",
                 "prevSection": "上一场景",
-                "scrollDown": "向下滚动",
-                "scrollLeft": "向左滚动",
-                "scrollRight": "向右滚动",
-                "scrollUp": "向上滚动",
+                "scrollDown": "向下移动",
+                "scrollLeft": "向左移动",
+                "scrollRight": "向右移动",
+                "scrollUp": "向上移动",
                 "switchScreens": "显示面板",
                 "testPlay": "测试关卡"
             },
@@ -533,7 +535,7 @@
                     "buttonPlus": "+",
                     "caseIR": "（IR）",
                     "dPad": "十字键",
-                    "shake": "震动"
+                    "shake": "摇晃"
                 }
             },
             "wordButtons": "按键",
@@ -546,7 +548,7 @@
             "promptNewWorldName": "给你的新剧本起个名字吧"
         },
         "game": {
-            "gameBattleRandom": "随机关卡",
+            "gameBattleRandom": "随机选择关卡",
             "gameCopySave": "复制存档",
             "gameEraseSave": "删除存档",
             "gameEraseSlot": "选择要删除的存档",
@@ -573,8 +575,9 @@
             "optionsModeFullScreen": "全屏模式",
             "optionsModeWindowed": "窗口模式",
             "optionsViewCredits": "查看制作团队",
-	    "render": "图形渲染方式: {0}",
-            "renderX": "图形渲染方式: {0} (X)",
+	    "render": "图形渲染类型: {0}",
+	    "renderAuto": "图形渲染类型: 自动选择 ({0})",
+            "renderX": "图形渲染类型: {0} (X)",
 	    "restartEngine": "重启引擎后生效",
             "scale": {
                 "integer": "整数",
