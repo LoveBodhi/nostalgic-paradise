@@ -105,6 +105,7 @@
             "convert": {
                 "_38aUnsupported": "不支持轉換SMBX-38A格式的關卡。",
                 "desc": "文件格式將會轉換，但不會刪除源文件。",
+		"featureBgoOrder": "背景裝飾設置了自定義疊放次序。",
                 "featureBlockForceSmashable": "旋轉方塊設置了舊版本的破碎方式。",
                 "featureCustomWorldMusic": "在大地圖中設置了自定義音樂。",
                 "featureEventAutoscroll": "在事件中設置了新版的強制卷軸。",
@@ -136,6 +137,8 @@
             "sectionLevel": "關卡",
             "sectionWorld": "大地圖"
         },
+	"labelSortLayer": "背景裝飾疊放位置：",
+        "labelSortOffset": "背景裝飾疊放次序：",
         "layers": {
             "abbrevAttLayer": "跟隨：",
             "default": "默認",
@@ -356,8 +359,15 @@
             "openFileFailed": "錯誤：無法打開文件“{0}”：文件不存在或已損壞。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能進入此處。"
         },
+	"message": {
+            "scanningLevels": "正在查找關卡……"
+        },
+        "format": {
+            "minutesSeconds": "{0}分{1}秒"
+        },
         "pause": {
             "continue": "繼續遊戲",
+	    "playerSetup": "遊戲玩家安排",
             "dropAddPlayers": "加入/離開遊戲",
             "enterCode": "輸入指令",
             "quit": "退出",
@@ -411,7 +421,7 @@
                 "primary": "鼠標左鍵",
                 "right": "鼠標向右移動",
                 "secondary": "鼠標右鍵",
-                "tertiary": "鼠標第三按鍵",
+                "tertiary": "鼠標滾輪",
                 "up": "鼠標向上移動"
             },
             "editor": {
@@ -441,7 +451,7 @@
                 "groundPoundButton": "震地按鍵",
                 "maxPlayers": "玩家上限",
                 "rumble": "Rumble控制器",
-                "textEntryStyle": "按鍵名稱顯示"
+                "textEntryStyle": "文字輸入使用設備"
             },
             "phraseNewProfOldJoy": "新建老式手柄配置",
             "profile": {
@@ -544,7 +554,8 @@
         "editor": {
             "errorMissingResources": "無法進入初見工作室：文件{0}未找到。",
             "errorResolution": "無法進入初見工作室：當前設置的分辨率不支持。",
-            "newWorld": "<創建新劇本>",
+            "battles": "<對戰關卡>",
+	    "newWorld": "<創建新劇本>",
             "promptNewWorldName": "給你的新劇本起個名字吧"
         },
         "game": {
@@ -609,6 +620,7 @@
         "nameVitalyNovichkov": "維塔利·諾維奇科夫",
         "originalBy": "原始VB6代碼：",
         "psVitaPortBy": "PS Vita移植：",
+	"qualityControl": "品質管理：",
         "specialThanks": "特別鳴謝："
     },
     "pluralRules": "singular-only"

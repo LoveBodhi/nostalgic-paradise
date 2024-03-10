@@ -4,8 +4,8 @@
 ---- translation_metadata.json
 {
     "use-tr-id": true,
-    " episode_title": "地图名称 Episode/World Title",
-    " episode_world": "地图文件名 Episode/World Filename",
+    " episode_title": "地图/剧本名称 Episode/Scenario/World Title",
+    " episode_world": "地图/剧本文件名 Episode/Scenario/World Filename",
     "关卡文件名 Level Filename": {
         "dialogues": [
 	    {
@@ -57,7 +57,7 @@
         ],
 	"title": "关卡标题 Level Title"
     },
-    "地图文件名 Episode/World Filename": {
+    "地图/剧本文件名 Episode/Scenario/World Filename": {
 	"levels": [
 	    {
 	        "tit": "字符串键1 StringKey1",
@@ -96,8 +96,8 @@
 
 ---- translation_langcode.json
 {
-    " episode_title": "地图名称 Episode/World Title",
-    " episode_world": "地图文件名 Episode/World Filename",
+    " episode_title": "地图/剧本名称 Episode/Scenario/World Title",
+    " episode_world": "地图/剧本文件名 Episode/Scenario/World Filename",
     "关卡文件名 Level Filename": {
         "npc": [
             {
@@ -139,7 +139,7 @@
         ],
 	"title": "关卡标题 Level Title"
     },
-    "地图文件名 Episode/World Filename": {
+    "地图/剧本文件名 Episode/Scenario/World Filename": {
 	"levels": [
 	    {
 	        "tr-id": "字符串键1 StringKey1",

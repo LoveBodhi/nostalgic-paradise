@@ -1,3 +1,22 @@
+# Version 0.2.4 (2024-02-19)
+
+Asset Changes:
+
+- Updated Haunted House Entrance and Exit Decoration.
+- Updated Castle Pillars.
+- Updated Timed Switch Block Design.
+- Updated Big Block Design.
+- Backgrounds Overhaul.
+- Added Lavafall.
+- Added Firebar Decoration that to be placed inside the wall.
+- Added some world map sceneries.
+- Added some world map terrains.
+- Fixed Link's Colour on the World Map.
+
+Demo Episode Changes:
+
+- Tweaked some stages.
+
 # Version 0.2.3a (2024-01-09)
 
 Asset Changes:
@@ -27,7 +46,7 @@ Asset Changes:
 - Updated Deep Underwater Background.
 - Updated Brown Cave Background.
 - Updated Big Thwomp.
-- Replaced Deep Underwater Ruins with Recoloured Underwater Background.
+- Replaced Recoloured Underwater Background with Deep Underwater Ruins.
 - Moved version number to the bottom of Logo.
 - Fixed offset for Ice Mario's left frames of swimming.
 - Fixed offset for Mario Grabbing Items.

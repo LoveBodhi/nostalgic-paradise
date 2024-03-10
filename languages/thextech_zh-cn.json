@@ -105,6 +105,7 @@
             "convert": {
                 "_38aUnsupported": "不支持转换SMBX-38A格式的关卡。",
                 "desc": "文件格式将会转换，但不会删除源文件。",
+		"featureBgoOrder": "背景装饰设置了自定义叠放次序。",
                 "featureBlockForceSmashable": "旋转方块设置了旧版本的破碎方式。",
                 "featureCustomWorldMusic": "在大地图中设置了自定义音乐。",
                 "featureEventAutoscroll": "在事件中设置了新版的强制卷轴。",
@@ -136,6 +137,8 @@
             "sectionLevel": "关卡",
             "sectionWorld": "大地图"
         },
+	"labelSortLayer": "背景装饰叠放位置：",
+        "labelSortOffset": "背景装饰叠放次序：",
         "layers": {
             "abbrevAttLayer": "跟随：",
             "default": "默认",
@@ -356,8 +359,15 @@
             "openFileFailed": "错误：无法打开文件“{0}”：文件不存在或已损坏。",
             "warpNeedStarCount": "至少需要{0}{2}{1}才能进入这里。"
         },
+	"message": {
+            "scanningLevels": "正在查找关卡……"
+        },
+        "format": {
+            "minutesSeconds": "{0}分{1}秒"
+        },
         "pause": {
             "continue": "继续游戏",
+	    "playerSetup": "游戏玩家安排",
             "dropAddPlayers": "加入/离开游戏",
             "enterCode": "输入指令",
             "quit": "退出",
@@ -411,7 +421,7 @@
                 "primary": "鼠标左键",
                 "right": "鼠标向右移动",
                 "secondary": "鼠标右键",
-                "tertiary": "鼠标第三按键",
+                "tertiary": "鼠标滚轮",
                 "up": "鼠标向上移动"
             },
             "editor": {
@@ -441,7 +451,7 @@
                 "groundPoundButton": "震地按键",
                 "maxPlayers": "玩家上限",
                 "rumble": "Rumble控制器",
-                "textEntryStyle": "按键名称显示"
+                "textEntryStyle": "文字输入使用设备"
             },
             "phraseNewProfOldJoy": "新建老式手柄配置",
             "profile": {
@@ -544,6 +554,7 @@
         "editor": {
             "errorMissingResources": "无法进入初见工作室：文件{0}未找到。",
             "errorResolution": "无法进入初见工作室：当前设置的分辨率不支持。",
+	    "battles": "<对战关卡>",
             "newWorld": "<创建新剧本>",
             "promptNewWorldName": "给你的新剧本起个名字吧"
         },
@@ -569,7 +580,7 @@
             "mainExit": "退出",
             "mainMultiplayerGame": "多人游戏",
             "mainOptions": "设置",
-            "mainStartGame": "开始游戏"
+            "mainPlayEpisode": "剧情模式"
         },
         "options": {
             "optionsModeFullScreen": "全屏模式",
@@ -609,6 +620,7 @@
         "nameVitalyNovichkov": "维塔利·诺维奇科夫",
         "originalBy": "原始VB6代码：",
         "psVitaPortBy": "PS Vita移植：",
+	"qualityControl": "品质管理：",
         "specialThanks": "特别鸣谢："
     },
     "pluralRules": "singular-only"

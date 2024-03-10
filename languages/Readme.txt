@@ -10,7 +10,7 @@ Partial strings are different from original TheXTech strings, which related to c
 1. singular-only
 
 使用唯一的数词。
-Only use singular form.
+Only use unique singular form.
 
 2. one-is-singular
 
